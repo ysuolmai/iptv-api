@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-02-12 23:37:45,http://iptv.huuc.edu.cn/hls/cctv1hd.m3u8
+2026-02-13 07:42:02,http://iptv.huuc.edu.cn/hls/cctv1hd.m3u8
 
 📺央视频道,#genre#
 CCTV-1,http://iptv.huuc.edu.cn/hls/cctv1hd.m3u8
@@ -2280,8 +2280,6 @@ TVBS亚洲,http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe
 纬来体育,https://smart.dxjc.pp.ua/smart.php?id=videolandsport&token=tmxk
 纬来育乐,https://hls-gateway.vpstv.net/streams/477081.m3u8
 纬来育乐,https://smart.pendy.dpdns.org/Smart.php?id=videolandyule
-纬来育乐,https://live.catvod.com/live.php?id=videolandyule
-纬来育乐,https://live.catvod.com/live.php?id=videolandmax
 纬来育乐,https://smart.946985.filegear-sg.me/smart.php?id=videolandyule
 纬来育乐,https://smart.dxjc.pp.ua/smart.php?id=videolandyule&token=tmxk
 J2,http://php.jdshipin.com/TVOD/iptv.php?id=j2
@@ -2428,7 +2426,6 @@ NewTV动作电影,http://ott.mobaibox.com/PLTV/3/224/3221227606/index.m3u8
 东森洋片,https://hls-gateway.vpstv.net/streams/476997.m3u8
 东森洋片,https://smt.858.qzz.io/Smart.php?id=ettvwestern
 东森洋片,http://php.666230.xyz/smt.php?id=ettvwestern
-东森洋片,https://live.catvod.com/live.php?id=ettvwestern
 东森洋片,https://tv.iill.top/x/dsyp
 东森洋片,https://hls.iill.top/api/dsyp/index.m3u8
 东森洋片,https://smart.dxjc.pp.ua/smart.php?id=ettvwestern&token=tmxk
