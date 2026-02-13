@@ -9,8 +9,16 @@ name: 'Update schedule'
 # Many scheduled workflows from forks can cause workflows to be disabled.
 # If scheduled execution is required, use other deployment methods.
 
+#CI计划
 on:
+  #自动编译：当Auto-Clean运行完成后
+  workflow_run:
+    workflows: ["Upstream Sync"]
+    types:
+      - completed
+
   workflow_dispatch:
+  
 
 jobs:
   push:
