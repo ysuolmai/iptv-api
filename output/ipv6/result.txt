@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-03-08 07:45:27,http://iptv.huuc.edu.cn/hls/cctv1hd.m3u8
+2026-03-09 07:42:27,http://iptv.huuc.edu.cn/hls/cctv1hd.m3u8
 
 📺央视频道,#genre#
 CCTV-1,http://iptv.huuc.edu.cn/hls/cctv1hd.m3u8
@@ -411,6 +411,7 @@ CETV-4,http://sxydajtvlive.sx.chinamobile.com/PLTV/-/224/3221225748/1.m3u8
 甘肃卫视,http://rrs01.hw.gmcc.net:8088/PLTV/81/224/3221226662/1.m3u8
 甘肃卫视,https://hls.gstv.com.cn/49048r/6e1sy2.m3u8
 甘肃卫视,http://z.b.bkpcp.top/m.php?id=gsws
+甘肃卫视,https://t.freetv.fun/live/gan-su-wei-shi-2.php
 广西卫视,https://hlscdn.liangtv.cn/live/de0f97348eb84f62aa6b7d8cf0430770/dd505d87880c478f901f38560ca4d4e6.m3u8
 广西卫视,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221227010/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EkAhb-89sxdm9fz6-heXCuw%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
 广西卫视,https://mobilelive.gxtv.cn/live/gx_live1004/playlist.m3u8
@@ -548,6 +549,7 @@ CETV-4,http://sxydajtvlive.sx.chinamobile.com/PLTV/-/224/3221225748/1.m3u8
 山西卫视,https://yvxymm.tv12.xyz/42.m3u8
 山西卫视,http://fnos.kictoc.top:7000/rtp/239.254.200.83:8172
 山西卫视,https://live.lalifeier.eu.org/sxrtv/sxws.m3u8?t=1770872819&key=e1b684a5c141bf1d225ac68c3c2ce97f
+山西卫视,https://t.freetv.fun/live/shan-xi-wei-shi-1.php
 陕西卫视,https://migu.188766.xyz/?migutoken=dd06848d859edc47bb6d8e806fbb04f9&id=%E9%99%95%E8%A5%BF%E5%8D%AB%E8%A7%86&type=yy
 陕西卫视,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226999/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EsGLKaSqf0wDZMbAjeQtfyw%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
 陕西卫视,https://migu.188766.xyz/?migutoken=abe927594e5dc297c576d1bdb418237d&id=%E9%99%95%E8%A5%BF%E5%8D%AB%E8%A7%86&type=yy
