@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-03-10 07:53:56,http://iptv.huuc.edu.cn/hls/cctv1hd.m3u8
+2026-03-11 07:57:36,http://iptv.huuc.edu.cn/hls/cctv1hd.m3u8
 
 📺央视频道,#genre#
 CCTV-1,http://iptv.huuc.edu.cn/hls/cctv1hd.m3u8
@@ -1538,6 +1538,7 @@ CETV-4,http://sxydajtvlive.sx.chinamobile.com/PLTV/-/224/3221225748/1.m3u8
 广西新闻,https://mobilelive.gxtv.cn/live/gx_live1007/playlist.m3u8
 广西新闻,https://tv.gxtv.cn/channel/channelivePlay_9dfd8600075811e9ba67e41f13b60c62.html
 广西新闻,https://t.freetv.fun/live/yan-xi-xin-wen.m3u8
+广西新闻,https://t.freetv.fun/live/yan-xi-xin-wen-1.m3u8
 广西国际,https://hlscdn.liangtv.cn/live/0234c48e0bc24fe1b41b9999a253e581/1075ee38e04f490690f6a36a16e09c79.m3u8
 广西国际,http://hlscdn.liangtv.cn/live/0234c48e0bc24fe1b41b9999a253e581/1075ee38e04f490690f6a36a16e09c79.m3u8?fbl=
 广西国际,https://tv.gxtv.cn/channel/channelivePlay_bfa17b64157f11e999f0e41f13b60c62.html
@@ -2741,6 +2742,7 @@ CN卡通,https://stream1.freetv.fun/cnqia-tong-3.ctv
 经典动漫,https://www.goodiptv.club/yy/24180320
 蜡笔小新,http://live.188766.xyz/huya/30299353
 蜡笔小新,http://live.188766.xyz/huya/11352970
+蜡笔小新,https://live.ottiptv.cc/bilibili/30837590
 漫画解说,https://www.goodiptv.club/douyu/5907076
 漫画解说,https://yylunbo.ottiptv.cc/yy/1382735568
 
