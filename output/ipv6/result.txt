@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-03-27 07:07:28,http://iptv.huuc.edu.cn/hls/cctv1hd.m3u8
+2026-03-28 06:55:08,http://iptv.huuc.edu.cn/hls/cctv1hd.m3u8
 
 📺央视频道,#genre#
 CCTV-1,http://iptv.huuc.edu.cn/hls/cctv1hd.m3u8
@@ -1549,6 +1549,7 @@ CGTN纪录,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225602/index.m
 海峡卫视,https://t.freetv.fun/live/hai-xia-wei-shi-4.m3u8
 海峡卫视,https://t.freetv.fun/live/hai-xia-wei-shi.m3u8
 海峡卫视,http://php.jdshipin.com:8880/fujian.php?id=9
+海峡卫视,https://t.freetv.fun/live/hai-xia-wei-shi-3.m3u8
 四海钓鱼,http://goo.bkpcp.top/mg/shdy
 四海钓鱼,http://z.b.bkpcp.top/m.php?id=shdy
 乐游,https://hls-gateway.vpstv.net/streams/708840.m3u8
@@ -1655,6 +1656,7 @@ TVB J1,https://stream1.freetv.fun/fei-cui-tai-bei-mei-ban-1.ctv
 中视,https://t.freetv.fun/live/zhong-shi-3.m3u8
 中视,https://t.freetv.fun/live/zhong-shi-7.php
 中视,https://t.freetv.fun/live/zhong-shi-8.php
+中视,https://t.freetv.fun/live/zhong-shi-2.m3u8
 华视,https://4gtv.dxjc.pp.ua/4gtv-4gtv041/index.m3u8
 华视,https://4gtv.dxjc.pp.ua/li-4gtv-4gtv041/index.m3u8
 华视,https://4gtv.dxjc.pp.ua/of-4gtv-4gtv041/index.m3u8
@@ -1923,6 +1925,7 @@ BRTV卡酷少儿,http://rrs01.hw.gmcc.net:8088/PLTV/81/224/3221226677/1.m3u8
 广东影视,https://t.freetv.fun/live/yan-dong-ying-shi.m3u8
 广东影视,https://t.freetv.fun/live/yan-dong-ying-shi-2.m3u8
 广东影视,https://t.freetv.fun/live/yan-dong-ying-shi-gao-qing-11.m3u8
+广东影视,https://t.freetv.fun/live/yan-dong-ying-shi-5.m3u8
 广东少儿,https://t.freetv.fun/live/yan-dong-shao-er-6.m3u8
 广东少儿,https://t.freetv.fun/live/yan-dong-shao-er-1.m3u8
 广东少儿,https://t.freetv.fun/live/yan-dong-shao-er-10.m3u8
@@ -1941,6 +1944,7 @@ BRTV卡酷少儿,http://rrs01.hw.gmcc.net:8088/PLTV/81/224/3221226677/1.m3u8
 广东少儿,https://t.freetv.fun/live/yan-dong-shao-er-gao-qing-9.m3u8
 广东少儿,https://t.freetv.fun/live/yan-dong-shao-er-gao-qing.m3u8
 广东少儿,https://t.freetv.fun/live/yan-dong-shao-er.m3u8
+广东少儿,https://t.freetv.fun/live/yan-dong-shao-er-5.m3u8
 广东经济科教,https://t.freetv.fun/live/yan-dong-jing-ji-ke-jiao.m3u8
 广州新闻,https://t.freetv.fun/live/yan-zhou-xin-wen-1.m3u8
 广州新闻,https://t.freetv.fun/live/yan-zhou-xin-wen-14.m3u8
@@ -2138,6 +2142,7 @@ amc电影,http://breezy-audrie-zspace-7524863c.koyeb.app/vipsir?token=leifeng&id
 amc电影,https://mao.ffmking888.dpdns.org/?id=YW1j6Zu75b2x5Yaw&auth=30234cedf871581989d3c91a3daec1e9f50e024aafcfa2247e7d44d91bb8d02fbc3f571b2d67f9d82642cc1d0f133d89
 amc电影,https://tmxk.pp.ua/litv.php?token=tmxk&id=4gtv-4gtv017
 amc电影,https://cdn12.178.indevs.in/163189/0bcf9bb8c452e56a
+amc电影,https://t.freetv.fun/live/amcdian-ying.m3u8
 台湾戏剧,https://4gtv.dxjc.pp.ua/li-litv-longturn22/index.m3u8
 台湾戏剧,http://breezy-audrie-zspace-7524863c.koyeb.app/vipsir?token=leifeng&id=litv-longturn22
 台湾戏剧,https://4gtv.dxjc.pp.ua/litv-longturn22/index.m3u8
@@ -2332,6 +2337,7 @@ cctv8kMCP,https://live.ottiptv.cc/mcp/cctv8k.m3u8?userid=5559462299&sign=108dfed
 广州南国都市,https://t.freetv.fun/live/yan-zhou-nan-guo-du-shi-4.m3u8
 广州南国都市,https://t.freetv.fun/live/yan-zhou-nan-guo-du-shi-7.m3u8
 广州南国都市,https://t.freetv.fun/live/yan-zhou-nan-guo-du-shi.m3u8
+广州南国都市,https://t.freetv.fun/live/yan-zhou-nan-guo-du-shi-8.m3u8
 湖州娱乐,https://t.freetv.fun/live/hu-zhou-yu-le.m3u8
 茶,https://hls-gateway.vpstv.net/streams/708833.m3u8
 茶,http://[2409:8087:5e00:24::1e]:6060/000000001000/5000000011000031209/1.m3u8
@@ -2512,6 +2518,7 @@ CHC电影/265,https://hls-gateway.vpstv.net/streams/708870.m3u8
 深圳都市,https://hls-gateway.vpstv.net/streams/708846.m3u8
 深圳都市,https://t.freetv.fun/live/shen-zhen-du-shi-1.m3u8
 深圳都市,https://t.freetv.fun/live/shen-zhen-du-shi.m3u8
+深圳都市,https://t.freetv.fun/live/shen-zhen-du-shi-2.m3u8
 福建海峡,https://hls-gateway.vpstv.net/streams/708836.m3u8
 CETV早教,https://hls-gateway.vpstv.net/streams/708970.m3u8
 先锋乒羽,https://hls-gateway.vpstv.net/streams/708971.m3u8
@@ -3692,3 +3699,5 @@ CHC动作电影,https://t.freetv.fun/live/chcdong-zuo-dian-ying-1.m3u8
 ◆◆◆　https://raw.githubusercontent.com/develop202/migu_video/refs/heads/main/interfaceTXT.txt
 更新日期: 2026-3-25 06:29:12,http://pull-hls-f11.douyincdn.com/media/stream-407305982338400940.m3u8?arch_hrchy=w1&exp_hrchy=w1&expire=1774996096&major_anchor_level=common&sign=106e74adea885a99624db213f9e7a624&t_id=037-202603250628152EEAD1FDEDE598333DF1-Wxm5kJ
 洪金宝,https://t.freetv.fun/live/hong-jin-bao.flv
+◆◆◆　https://raw.githubusercontent.com/kimwang1978/collect-tv-txt/refs/heads/main/assets/freetv/freetv_output_other.txt
+CHC影迷电影,https://t.freetv.fun/live/chcying-mi-dian-ying-2.m3u8
