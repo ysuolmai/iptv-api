@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/ysuolmai/iptv-api/refs/heads/master/output/epg/epg.gz"
-#EXTINF:-1 tvg-id="1" tvg-name="CCTV-1" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CCTV-1.png" group-title="🕘️更新时间",2026-04-02 06:52:32
+#EXTINF:-1 tvg-id="1" tvg-name="CCTV-1" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CCTV-1.png" group-title="🕘️更新时间",2026-04-03 06:49:48
 http://iptv.huuc.edu.cn/hls/cctv1hd.m3u8
 #EXTINF:-1 tvg-id="1" tvg-name="CCTV-1" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CCTV-1.png" group-title="📺央视频道",CCTV-1
 http://iptv.huuc.edu.cn/hls/cctv1hd.m3u8
@@ -373,6 +373,8 @@ http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221
 https://zby.130519.xyz/PLTV/11/224/3221226090/index.m3u8
 #EXTINF:-1 tvg-id="45" tvg-name="甘肃卫视" tvg-logo="https://www.xn--rgv465a.top/tvlogo/甘肃卫视.png" group-title="📡卫视频道",甘肃卫视
 http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221227020/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7Err-CLugPnTcUinEM8JeySg%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
+#EXTINF:-1 tvg-id="45" tvg-name="甘肃卫视" tvg-logo="https://www.xn--rgv465a.top/tvlogo/甘肃卫视.png" group-title="📡卫视频道",甘肃卫视
+https://t.freetv.fun/live/gan-su-wei-shi-2.php
 #EXTINF:-1 tvg-id="46" tvg-name="广西卫视" tvg-logo="https://www.xn--rgv465a.top/tvlogo/广西卫视.png" group-title="📡卫视频道",广西卫视
 https://zby.130519.xyz/PLTV/11/224/3221226084/index.m3u8
 #EXTINF:-1 tvg-id="46" tvg-name="广西卫视" tvg-logo="https://www.xn--rgv465a.top/tvlogo/广西卫视.png" group-title="📡卫视频道",广西卫视
@@ -2291,6 +2293,8 @@ http://cdn6.163189.xyz/163189/fhhk
 http://php.jdshipin.com/TVOD/iptv.php?id=fhhk
 #EXTINF:-1 tvg-id="389" tvg-name="凤凰卫视" tvg-logo="https://www.xn--rgv465a.top/tvlogo/凤凰卫视.png" group-title="🌊港·澳·台",凤凰卫视
 http://api.kkitv.itv888.vip:8080/streams/vny1wblsnch/index.m3u8
+#EXTINF:-1 tvg-id="389" tvg-name="凤凰卫视" tvg-logo="https://www.xn--rgv465a.top/tvlogo/凤凰卫视.png" group-title="🌊港·澳·台",凤凰卫视
+http://php.jdshipin.com/TVOD/iptv.php?id=fhzw
 #EXTINF:-1 tvg-id="390" tvg-name="TVBS亚洲" tvg-logo="https://www.xn--rgv465a.top/tvlogo/TVBS亚洲.png" group-title="🌊港·澳·台",TVBS亚洲
 http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8?zshijd
 #EXTINF:-1 tvg-id="35" tvg-name="香港卫视" tvg-logo="https://www.xn--rgv465a.top/tvlogo/香港卫视.png" group-title="🌊港·澳·台",香港卫视
@@ -6359,6 +6363,10 @@ http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/
 http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010025/1.m3u8
 #EXTINF:-1 tvg-id="1740" tvg-name="足球" tvg-logo="https://www.xn--rgv465a.top/tvlogo/足球.png" group-title="♻️未匹配频道",足球
 https://epg.pw/stream/c7df950876e6a1ceb8be74ee86f9f702cebbbae29f1d15124ef8f86fd43161cf.m3u8
+#EXTINF:-1 tvg-id="1740" tvg-name="足球" tvg-logo="https://www.xn--rgv465a.top/tvlogo/足球.png" group-title="♻️未匹配频道",足球
+https://t.freetv.fun/live/zu-qiu-1.m3u8
+#EXTINF:-1 tvg-id="1740" tvg-name="足球" tvg-logo="https://www.xn--rgv465a.top/tvlogo/足球.png" group-title="♻️未匹配频道",足球
+https://t.freetv.fun/live/zu-qiu.m3u8
 #EXTINF:-1 tvg-id="1741" tvg-name="TVB翡翠台 4K" tvg-logo="https://www.xn--rgv465a.top/tvlogo/TVB翡翠台 4K.png" group-title="♻️未匹配频道",TVB翡翠台 4K
 http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct4
 #EXTINF:-1 tvg-id="1742" tvg-name="Astro 欢喜" tvg-logo="https://www.xn--rgv465a.top/tvlogo/Astro 欢喜.png" group-title="♻️未匹配频道",Astro 欢喜
@@ -7273,6 +7281,12 @@ https://t.freetv.fun/live/amcdian-ying.m3u8
 
 #EXTINF:-1 tvg-id="403" tvg-name="CHC动作电影" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CHC动作电影.png" group-title="♻️未匹配频道",CHC动作电影
 https://t.freetv.fun/live/chcdong-zuo-dian-ying-1.m3u8
+#EXTINF:-1 tvg-id="2153" tvg-name="◆◆◆　https://raw.githubusercontent.com/kimwang1978/TV/master/output/result.txt" tvg-logo="https://www.xn--rgv465a.top/tvlogo/◆◆◆　https://raw.githubusercontent.com/kimwang1978/TV/master/output/result.txt.png" group-title="♻️未匹配频道",◆◆◆　https://raw.githubusercontent.com/kimwang1978/TV/master/output/result.txt
+
+#EXTINF:-1 tvg-id="2084" tvg-name="◆◆◆　https://raw.githubusercontent.com/kimwang1978/collect-tv-txt/refs/heads/main/assets/freetv/freetv_output_other.txt" tvg-logo="https://www.xn--rgv465a.top/tvlogo/◆◆◆　https://raw.githubusercontent.com/kimwang1978/collect-tv-txt/refs/heads/main/assets/freetv/freetv_output_other.txt.png" group-title="♻️未匹配频道",◆◆◆　https://raw.githubusercontent.com/kimwang1978/collect-tv-txt/refs/heads/main/assets/freetv/freetv_output_other.txt
+
+#EXTINF:-1 tvg-id="403" tvg-name="CHC动作电影" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CHC动作电影.png" group-title="♻️未匹配频道",CHC动作电影
+https://t.freetv.fun/live/chcdong-zuo-dian-ying-3.m3u8
 #EXTINF:-1 tvg-id="2142" tvg-name="◆◆◆　http://ku9.fr.to/ku9/1768502278.txt" tvg-logo="https://www.xn--rgv465a.top/tvlogo/◆◆◆　http://ku9.fr.to/ku9/1768502278.txt.png" group-title="♻️未匹配频道",◆◆◆　http://ku9.fr.to/ku9/1768502278.txt
 
 #EXTINF:-1 tvg-id="2143" tvg-name="◆◆◆　https://188766.xyz/itv" tvg-logo="https://www.xn--rgv465a.top/tvlogo/◆◆◆　https://188766.xyz/itv.png" group-title="♻️未匹配频道",◆◆◆　https://188766.xyz/itv
@@ -7287,3 +7301,11 @@ https://t.freetv.fun/live/hong-jin-bao.flv
 
 #EXTINF:-1 tvg-id="501" tvg-name="CHC影迷电影" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CHC影迷电影.png" group-title="♻️未匹配频道",CHC影迷电影
 https://t.freetv.fun/live/chcying-mi-dian-ying-2.m3u8
+#EXTINF:-1 tvg-id="2142" tvg-name="◆◆◆　http://ku9.fr.to/ku9/1768502278.txt" tvg-logo="https://www.xn--rgv465a.top/tvlogo/◆◆◆　http://ku9.fr.to/ku9/1768502278.txt.png" group-title="♻️未匹配频道",◆◆◆　http://ku9.fr.to/ku9/1768502278.txt
+
+#EXTINF:-1 tvg-id="2143" tvg-name="◆◆◆　https://188766.xyz/itv" tvg-logo="https://www.xn--rgv465a.top/tvlogo/◆◆◆　https://188766.xyz/itv.png" group-title="♻️未匹配频道",◆◆◆　https://188766.xyz/itv
+
+#EXTINF:-1 tvg-id="2144" tvg-name="◆◆◆　https://raw.githubusercontent.com/develop202/migu_video/refs/heads/main/interfaceTXT.txt" tvg-logo="https://www.xn--rgv465a.top/tvlogo/◆◆◆　https://raw.githubusercontent.com/develop202/migu_video/refs/heads/main/interfaceTXT.txt.png" group-title="♻️未匹配频道",◆◆◆　https://raw.githubusercontent.com/develop202/migu_video/refs/heads/main/interfaceTXT.txt
+
+#EXTINF:-1 tvg-id="2156" tvg-name="更新日期: 2026-4-2 07:18:45" tvg-logo="https://www.xn--rgv465a.top/tvlogo/更新日期: 2026-4-2 07:18:45.png" group-title="♻️未匹配频道",更新日期: 2026-4-2 07:18:45
+http://pull-hls-f11.douyincdn.com/media/stream-407352347386708652.m3u8?arch_hrchy=w1&exp_hrchy=w1&expire=1775687562&major_anchor_level=common&sign=8120b3fc3ed9fa2f1f7eb400c9168b9a&t_id=037-20260402063241C3EA67C26D88179B4B9E-V89dvG
