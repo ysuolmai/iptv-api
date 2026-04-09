@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/ysuolmai/iptv-api/refs/heads/master/output/epg/epg.gz"
-#EXTINF:-1 tvg-id="1" tvg-name="CCTV-1" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CCTV-1.png" group-title="🕘️更新时间",2026-04-09 07:04:55
+#EXTINF:-1 tvg-id="1" tvg-name="CCTV-1" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CCTV-1.png" group-title="🕘️更新时间",2026-04-10 07:05:27
 http://iptv.huuc.edu.cn/hls/cctv1hd.m3u8
 #EXTINF:-1 tvg-id="1" tvg-name="CCTV-1" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CCTV-1.png" group-title="📺央视频道",CCTV-1
 http://iptv.huuc.edu.cn/hls/cctv1hd.m3u8
@@ -3013,6 +3013,8 @@ https://t.freetv.fun/live/chcying-mi-dian-ying.m3u8
 https://t.freetv.fun/live/chcying-mi-dian-ying-4.m3u8
 #EXTINF:-1 tvg-id="501" tvg-name="CHC影迷电影" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CHC影迷电影.png" group-title="♻️未匹配频道",CHC影迷电影
 https://t.freetv.fun/live/chcying-mi-dian-ying-5.m3u8
+#EXTINF:-1 tvg-id="501" tvg-name="CHC影迷电影" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CHC影迷电影.png" group-title="♻️未匹配频道",CHC影迷电影
+https://t.freetv.fun/live/chcying-mi-dian-ying-2.php
 #EXTINF:-1 tvg-id="502" tvg-name="爱上4K" tvg-logo="https://www.xn--rgv465a.top/tvlogo/爱上4K.png" group-title="♻️未匹配频道",爱上4K
 http://wouu.net:9977/udp/239.93.0.97:5140
 #EXTINF:-1 tvg-id="503" tvg-name="美亚电影台" tvg-logo="https://www.xn--rgv465a.top/tvlogo/美亚电影台.png" group-title="♻️未匹配频道",美亚电影台
@@ -4143,6 +4145,8 @@ https://hls-gateway.vpstv.net/streams/488994.m3u8
 https://t.freetv.fun/live/huan-yu-cai-jing.php
 #EXTINF:-1 tvg-id="808" tvg-name="寰宇财经" tvg-logo="https://www.xn--rgv465a.top/tvlogo/寰宇财经.png" group-title="♻️未匹配频道",寰宇财经
 https://t.freetv.fun/live/huan-yu-cai-jing-1.php
+#EXTINF:-1 tvg-id="808" tvg-name="寰宇财经" tvg-logo="https://www.xn--rgv465a.top/tvlogo/寰宇财经.png" group-title="♻️未匹配频道",寰宇财经
+https://t.freetv.fun/live/huan-yu-cai-jing.flv
 #EXTINF:-1 tvg-id="809" tvg-name="半岛国际新闻" tvg-logo="https://www.xn--rgv465a.top/tvlogo/半岛国际新闻.png" group-title="♻️未匹配频道",半岛国际新闻
 http://breezy-audrie-zspace-7524863c.koyeb.app/vipsir?token=leifeng&id=litv-ftv10
 #EXTINF:-1 tvg-id="810" tvg-name="非凡商业" tvg-logo="https://www.xn--rgv465a.top/tvlogo/非凡商业.png" group-title="♻️未匹配频道",非凡商业
@@ -7289,6 +7293,8 @@ https://t.freetv.fun/live/tvbsya-zhou.m3u8
 https://t.freetv.fun/live/tvbxing-he-2.m3u8
 #EXTINF:-1 tvg-id="2093" tvg-name="tvb星河" tvg-logo="https://www.xn--rgv465a.top/tvlogo/tvb星河.png" group-title="♻️未匹配频道",tvb星河
 https://t.freetv.fun/live/tvbxing-he-4.m3u8
+#EXTINF:-1 tvg-id="2093" tvg-name="tvb星河" tvg-logo="https://www.xn--rgv465a.top/tvlogo/tvb星河.png" group-title="♻️未匹配频道",tvb星河
+https://t.freetv.fun/live/tvbxing-he-3.m3u8
 #EXTINF:-1 tvg-id="2094" tvg-name="内江综合" tvg-logo="https://www.xn--rgv465a.top/tvlogo/内江综合.png" group-title="♻️未匹配频道",内江综合
 https://t.freetv.fun/live/nei-jiang-zong-he.m3u8
 #EXTINF:-1 tvg-id="2094" tvg-name="内江综合" tvg-logo="https://www.xn--rgv465a.top/tvlogo/内江综合.png" group-title="♻️未匹配频道",内江综合
