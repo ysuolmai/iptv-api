@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/ysuolmai/iptv-api/refs/heads/master/output/epg/epg.gz"
-#EXTINF:-1 tvg-id="1" tvg-name="CCTV-1" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CCTV-1.png" group-title="🕘️更新时间",2026-04-17 07:08:57
+#EXTINF:-1 tvg-id="1" tvg-name="CCTV-1" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CCTV-1.png" group-title="🕘️更新时间",2026-04-18 07:05:40
 http://iptv.huuc.edu.cn/hls/cctv1hd.m3u8
 #EXTINF:-1 tvg-id="1" tvg-name="CCTV-1" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CCTV-1.png" group-title="📺央视频道",CCTV-1
 http://iptv.huuc.edu.cn/hls/cctv1hd.m3u8
@@ -485,6 +485,8 @@ http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221
 http://m3u8.channel.wsrtv.com.cn/cms/videos/nmip-media/channellive/channel7/playlist.m3u8
 #EXTINF:-1 tvg-id="59" tvg-name="山西卫视" tvg-logo="https://www.xn--rgv465a.top/tvlogo/山西卫视.png" group-title="📡卫视频道",山西卫视
 https://t.freetv.fun/live/shan-xi-wei-shi-3-2.m3u8
+#EXTINF:-1 tvg-id="59" tvg-name="山西卫视" tvg-logo="https://www.xn--rgv465a.top/tvlogo/山西卫视.png" group-title="📡卫视频道",山西卫视
+https://t.freetv.fun/live/shan-xi-wei-shi-1.php
 #EXTINF:-1 tvg-id="60" tvg-name="陕西卫视" tvg-logo="https://www.xn--rgv465a.top/tvlogo/陕西卫视.png" group-title="📡卫视频道",陕西卫视
 http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226999/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EsGLKaSqf0wDZMbAjeQtfyw%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
 #EXTINF:-1 tvg-id="61" tvg-name="四川卫视" tvg-logo="https://www.xn--rgv465a.top/tvlogo/四川卫视.png" group-title="📡卫视频道",四川卫视
@@ -6565,6 +6567,10 @@ https://epg.pw/stream/c7df950876e6a1ceb8be74ee86f9f702cebbbae29f1d15124ef8f86fd4
 https://t.freetv.fun/live/zu-qiu-1.m3u8
 #EXTINF:-1 tvg-id="1741" tvg-name="足球" tvg-logo="https://www.xn--rgv465a.top/tvlogo/足球.png" group-title="♻️未匹配频道",足球
 https://t.freetv.fun/live/zu-qiu.m3u8
+#EXTINF:-1 tvg-id="1741" tvg-name="足球" tvg-logo="https://www.xn--rgv465a.top/tvlogo/足球.png" group-title="♻️未匹配频道",足球
+https://t.freetv.fun/live/zu-qiu-2.m3u8
+#EXTINF:-1 tvg-id="1741" tvg-name="足球" tvg-logo="https://www.xn--rgv465a.top/tvlogo/足球.png" group-title="♻️未匹配频道",足球
+https://t.freetv.fun/live/zu-qiu-3.m3u8
 #EXTINF:-1 tvg-id="1742" tvg-name="TVB翡翠台 4K" tvg-logo="https://www.xn--rgv465a.top/tvlogo/TVB翡翠台 4K.png" group-title="♻️未匹配频道",TVB翡翠台 4K
 http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct4
 #EXTINF:-1 tvg-id="1743" tvg-name="Astro 欢喜" tvg-logo="https://www.xn--rgv465a.top/tvlogo/Astro 欢喜.png" group-title="♻️未匹配频道",Astro 欢喜
