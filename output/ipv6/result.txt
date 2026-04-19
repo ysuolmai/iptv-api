@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-04-19 06:57:57,http://iptv.huuc.edu.cn/hls/cctv1hd.m3u8
+2026-04-20 07:00:35,http://iptv.huuc.edu.cn/hls/cctv1hd.m3u8
 
 📺央视频道,#genre#
 CCTV-1,http://iptv.huuc.edu.cn/hls/cctv1hd.m3u8
@@ -1956,6 +1956,7 @@ BRTV卡酷少儿,http://rrs01.hw.gmcc.net:8088/PLTV/81/224/3221226677/1.m3u8
 四川文化旅游,http://wouu.net:9977/udp/239.93.1.102:5140
 四川公共乡村,http://wouu.net:9977/udp/239.93.0.52:5140
 四川妇女儿童,http://wouu.net:9977/udp/239.93.0.219:5140
+广东公共,https://t.freetv.fun/live/yan-dong-gong-gong-1.m3u8
 广东影视,https://hlsbkmgsplive.miguvideo.com/wd_r1/2018/nfmedia/nfys/1000/01.m3u8?&HlsSubType=&encrypt=
 广东影视,https://t.freetv.fun/live/yan-dong-ying-shi-gao-qing-1.m3u8
 广东影视,https://t.freetv.fun/live/yan-dong-ying-shi-8.m3u8
