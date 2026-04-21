@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/ysuolmai/iptv-api/refs/heads/master/output/epg/epg.gz"
-#EXTINF:-1 tvg-id="1" tvg-name="CCTV-1" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CCTV-1.png" group-title="🕘️更新时间",2026-04-21 07:12:54
+#EXTINF:-1 tvg-id="1" tvg-name="CCTV-1" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CCTV-1.png" group-title="🕘️更新时间",2026-04-22 07:04:34
 http://iptv.huuc.edu.cn/hls/cctv1hd.m3u8
 #EXTINF:-1 tvg-id="1" tvg-name="CCTV-1" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CCTV-1.png" group-title="📺央视频道",CCTV-1
 http://iptv.huuc.edu.cn/hls/cctv1hd.m3u8
@@ -403,6 +403,8 @@ http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221
 https://zby.130519.xyz/PLTV/11/224/3221226154/index.m3u8
 #EXTINF:-1 tvg-id="48" tvg-name="海南卫视" tvg-logo="https://www.xn--rgv465a.top/tvlogo/海南卫视.png" group-title="📡卫视频道",海南卫视
 http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221227029/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EEuBMjt2kLMD8fAO7QYER7Q%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
+#EXTINF:-1 tvg-id="48" tvg-name="海南卫视" tvg-logo="https://www.xn--rgv465a.top/tvlogo/海南卫视.png" group-title="📡卫视频道",海南卫视
+http://live.wqwqwq.sbs/itv/5000000004000006211.m3u8?cdn=bestzb
 #EXTINF:-1 tvg-id="49" tvg-name="河北卫视" tvg-logo="https://www.xn--rgv465a.top/tvlogo/河北卫视.png" group-title="📡卫视频道",河北卫视
 http://event.pull.hebtv.com/jishi/weishi_tingyun.m3u8
 #EXTINF:-1 tvg-id="49" tvg-name="河北卫视" tvg-logo="https://www.xn--rgv465a.top/tvlogo/河北卫视.png" group-title="📡卫视频道",河北卫视
@@ -4691,6 +4693,8 @@ https://hls-gateway.vpstv.net/streams/476950.m3u8
 https://t.freetv.fun/live/ling-nan-xi-qu.m3u8
 #EXTINF:-1 tvg-id="943" tvg-name="岭南戏曲" tvg-logo="https://www.xn--rgv465a.top/tvlogo/岭南戏曲.png" group-title="♻️未匹配频道",岭南戏曲
 https://t.freetv.fun/live/ling-nan-xi-qu-3.m3u8
+#EXTINF:-1 tvg-id="943" tvg-name="岭南戏曲" tvg-logo="https://www.xn--rgv465a.top/tvlogo/岭南戏曲.png" group-title="♻️未匹配频道",岭南戏曲
+https://t.freetv.fun/live/ling-nan-xi-qu-7.m3u8
 #EXTINF:-1 tvg-id="944" tvg-name="南京十八生活" tvg-logo="https://www.xn--rgv465a.top/tvlogo/南京十八生活.png" group-title="♻️未匹配频道",南京十八生活
 http://nklive.nbs.cn/hls/1173a815-bfdb-4c3c-9f73-89ec37ae7716/index.m3u8
 #EXTINF:-1 tvg-id="945" tvg-name="南京文旅纪录" tvg-logo="https://www.xn--rgv465a.top/tvlogo/南京文旅纪录.png" group-title="♻️未匹配频道",南京文旅纪录
@@ -7555,6 +7559,8 @@ https://t.freetv.fun/live/yan-xi-du-shi-1.m3u8
 https://t.freetv.fun/live/yan-xi-du-shi.m3u8
 #EXTINF:-1 tvg-id="2067" tvg-name="广西都市" tvg-logo="https://www.xn--rgv465a.top/tvlogo/广西都市.png" group-title="♻️未匹配频道",广西都市
 https://t.freetv.fun/live/yan-xi-du-shi-2.m3u8
+#EXTINF:-1 tvg-id="2067" tvg-name="广西都市" tvg-logo="https://www.xn--rgv465a.top/tvlogo/广西都市.png" group-title="♻️未匹配频道",广西都市
+https://t.freetv.fun/live/yan-xi-du-shi-3.m3u8
 #EXTINF:-1 tvg-id="2068" tvg-name="经济科教" tvg-logo="https://www.xn--rgv465a.top/tvlogo/经济科教.png" group-title="♻️未匹配频道",经济科教
 https://t.freetv.fun/live/jing-ji-ke-jiao.m3u8
 #EXTINF:-1 tvg-id="2068" tvg-name="经济科教" tvg-logo="https://www.xn--rgv465a.top/tvlogo/经济科教.png" group-title="♻️未匹配频道",经济科教
