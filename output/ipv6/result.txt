@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-04-22 07:04:34,http://iptv.huuc.edu.cn/hls/cctv1hd.m3u8
+2026-04-23 07:13:54,http://iptv.huuc.edu.cn/hls/cctv1hd.m3u8
 
 📺央视频道,#genre#
 CCTV-1,http://iptv.huuc.edu.cn/hls/cctv1hd.m3u8
@@ -351,6 +351,7 @@ CETV-4,http://[2409:8087:1a0a:df::4031]:80/ottrrs.hl.chinamobile.com/PLTV/888888
 浙江经济生活,https://t.freetv.fun/live/zhe-jiang-jing-ji-sheng-huo-1.m3u8
 浙江民生,https://t.freetv.fun/live/zhe-jiang-min-sheng-1.m3u8
 浙江民生,https://t.freetv.fun/live/zhe-jiang-min-sheng-3.m3u8
+浙江民生,https://t.freetv.fun/live/zhe-jiang-min-sheng.m3u8
 浙江新闻,https://stream1.freetv.fun/zhe-jiang-xin-wen-5.m3u8
 浙江新闻,https://stream1.freetv.fun/zhe-jiang-xin-wen-11.m3u8
 浙江新闻,https://stream1.freetv.fun/zhe-jiang-xin-wen-1.m3u8
@@ -4033,3 +4034,5 @@ tvbs欢乐,https://t.freetv.fun/live/tvbshuan-le-1.m3u8
 上海生活时尚,https://t.freetv.fun/live/sheng-huo-shi-shang-2.m3u8
 上海生活时尚,https://t.freetv.fun/live/sheng-huo-shi-shang-5.m3u8
 上海生活时尚,https://t.freetv.fun/live/sheng-huo-shi-shang-6.m3u8
+◆◆◆　https://raw.githubusercontent.com/kimwang1978/collect-tv-txt/refs/heads/main/assets/freetv/freetv_output_other.txt
+CHC家庭影院,https://t.freetv.fun/live/chcjia-ting-ying-yuan-4.m3u8
