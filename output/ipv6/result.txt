@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-04-25 07:10:02,http://iptv.huuc.edu.cn/hls/cctv1hd.m3u8
+2026-04-26 06:57:57,http://iptv.huuc.edu.cn/hls/cctv1hd.m3u8
 
 📺央视频道,#genre#
 CCTV-1,http://iptv.huuc.edu.cn/hls/cctv1hd.m3u8
@@ -1713,6 +1713,7 @@ TVB J1,https://stream1.freetv.fun/fei-cui-tai-bei-mei-ban-1.ctv
 华视,https://hls-gateway.vpstv.net/streams/476985.m3u8
 华视,https://t.freetv.fun/live/hua-shi-2.ts
 华视,https://t.freetv.fun/live/hua-shi-3.php
+华视,https://t.freetv.fun/live/hua-shi-1-1.m3u8
 台视新闻,https://hls-gateway.vpstv.net/streams/476268.m3u8
 台视新闻,https://t.freetv.fun/live/tai-shi-xin-wen-2.m3u8
 台视新闻,https://stream1.freetv.fun/tai-shi-xin-wen-1.m3u8
@@ -2029,6 +2030,7 @@ BRTV卡酷少儿,http://rrs01.hw.gmcc.net:8088/PLTV/81/224/3221226677/1.m3u8
 广东少儿,https://t.freetv.fun/live/yan-dong-shao-er-gao-qing-20.m3u8
 广东少儿,https://t.freetv.fun/live/yan-dong-shao-er-gao-qing-21.m3u8
 广东少儿,https://t.freetv.fun/live/yan-dong-shao-er-7.m3u8
+广东少儿,https://t.freetv.fun/live/yan-dong-shao-er-4.m3u8
 广东经济科教,https://t.freetv.fun/live/yan-dong-jing-ji-ke-jiao.m3u8
 广州新闻,https://t.freetv.fun/live/yan-zhou-xin-wen-1.m3u8
 广州新闻,https://t.freetv.fun/live/yan-zhou-xin-wen-14.m3u8

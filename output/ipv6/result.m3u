@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/ysuolmai/iptv-api/refs/heads/master/output/epg/epg.gz"
-#EXTINF:-1 tvg-id="1" tvg-name="CCTV-1" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CCTV-1.png" group-title="🕘️更新时间",2026-04-25 07:10:02
+#EXTINF:-1 tvg-id="1" tvg-name="CCTV-1" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CCTV-1.png" group-title="🕘️更新时间",2026-04-26 06:57:57
 http://iptv.huuc.edu.cn/hls/cctv1hd.m3u8
 #EXTINF:-1 tvg-id="1" tvg-name="CCTV-1" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CCTV-1.png" group-title="📺央视频道",CCTV-1
 http://iptv.huuc.edu.cn/hls/cctv1hd.m3u8
@@ -3263,6 +3263,8 @@ https://hls-gateway.vpstv.net/streams/476985.m3u8
 https://t.freetv.fun/live/hua-shi-2.ts
 #EXTINF:-1 tvg-id="546" tvg-name="华视" tvg-logo="https://www.xn--rgv465a.top/tvlogo/华视.png" group-title="♻️未匹配频道",华视
 https://t.freetv.fun/live/hua-shi-3.php
+#EXTINF:-1 tvg-id="546" tvg-name="华视" tvg-logo="https://www.xn--rgv465a.top/tvlogo/华视.png" group-title="♻️未匹配频道",华视
+https://t.freetv.fun/live/hua-shi-1-1.m3u8
 #EXTINF:-1 tvg-id="547" tvg-name="台视新闻" tvg-logo="https://www.xn--rgv465a.top/tvlogo/台视新闻.png" group-title="♻️未匹配频道",台视新闻
 https://hls-gateway.vpstv.net/streams/476268.m3u8
 #EXTINF:-1 tvg-id="547" tvg-name="台视新闻" tvg-logo="https://www.xn--rgv465a.top/tvlogo/台视新闻.png" group-title="♻️未匹配频道",台视新闻
@@ -3895,6 +3897,8 @@ https://t.freetv.fun/live/yan-dong-shao-er-gao-qing-20.m3u8
 https://t.freetv.fun/live/yan-dong-shao-er-gao-qing-21.m3u8
 #EXTINF:-1 tvg-id="718" tvg-name="广东少儿" tvg-logo="https://www.xn--rgv465a.top/tvlogo/广东少儿.png" group-title="♻️未匹配频道",广东少儿
 https://t.freetv.fun/live/yan-dong-shao-er-7.m3u8
+#EXTINF:-1 tvg-id="718" tvg-name="广东少儿" tvg-logo="https://www.xn--rgv465a.top/tvlogo/广东少儿.png" group-title="♻️未匹配频道",广东少儿
+https://t.freetv.fun/live/yan-dong-shao-er-4.m3u8
 #EXTINF:-1 tvg-id="719" tvg-name="广东经济科教" tvg-logo="https://www.xn--rgv465a.top/tvlogo/广东经济科教.png" group-title="♻️未匹配频道",广东经济科教
 https://t.freetv.fun/live/yan-dong-jing-ji-ke-jiao.m3u8
 #EXTINF:-1 tvg-id="720" tvg-name="广州新闻" tvg-logo="https://www.xn--rgv465a.top/tvlogo/广州新闻.png" group-title="♻️未匹配频道",广州新闻
