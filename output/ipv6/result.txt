@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-05-04 07:04:05,http://iptv.huuc.edu.cn/hls/cctv1hd.m3u8
+2026-05-05 07:21:15,http://iptv.huuc.edu.cn/hls/cctv1hd.m3u8
 
 📺央视频道,#genre#
 CCTV-1,http://iptv.huuc.edu.cn/hls/cctv1hd.m3u8
@@ -136,6 +136,7 @@ CETV-4,http://[2409:8087:1a0a:df::4031]:80/ottrrs.hl.chinamobile.com/PLTV/888888
 怀旧剧场,https://hls-gateway.vpstv.net/streams/708853.m3u8
 怀旧剧场,http://iptv.666230.xyz/iptv/jsyd.php/G_HUAIJIUJC-CQ
 怀旧剧场,http://www.qfly9236.cn:8888/rtp/239.253.92.98:6120
+怀旧剧场,https://gd202.tv1288.xyz/tsfile/live/1048_1.m3u8
 女性时尚,http://iptv.666230.xyz/iptv/jsyd.php/G_NVXINGSS-CQ
 女性时尚,http://www.qfly9236.cn:8888/rtp/239.253.92.249:6103
 高尔夫网球,https://hls-gateway.vpstv.net/streams/708857.m3u8
@@ -4091,6 +4092,8 @@ tvbs欢乐,https://t.freetv.fun/live/tvbshuan-le-1.m3u8
 上海生活时尚,https://t.freetv.fun/live/sheng-huo-shi-shang-6.m3u8
 ◆◆◆　https://raw.githubusercontent.com/kimwang1978/collect-tv-txt/refs/heads/main/assets/freetv/freetv_output_other.txt
 CHC家庭影院,https://t.freetv.fun/live/chcjia-ting-ying-yuan-4.m3u8
+◆◆◆　https://raw.githubusercontent.com/kimwang1978/collect-tv-txt/refs/heads/main/assets/freetv/freetv_output_other.txt
+CHC家庭影院,https://t.freetv.fun/live/chcjia-ting-ying-yuan-1.m3u8
 HOYTV,http://cdn6.163189.xyz/163189/hoy
 HUAHEEDAI,http://o11.163189.xyz/stream/live/hxt/
 TVB翡翠剧集台(TVBDRAMA),http://cdn6.163189.xyz/163189/tvbd

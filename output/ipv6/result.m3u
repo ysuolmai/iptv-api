@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/ysuolmai/iptv-api/refs/heads/master/output/epg/epg.gz"
-#EXTINF:-1 tvg-id="1" tvg-name="CCTV-1" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CCTV-1.png" group-title="🕘️更新时间",2026-05-04 07:04:05
+#EXTINF:-1 tvg-id="1" tvg-name="CCTV-1" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CCTV-1.png" group-title="🕘️更新时间",2026-05-05 07:21:15
 http://iptv.huuc.edu.cn/hls/cctv1hd.m3u8
 #EXTINF:-1 tvg-id="1" tvg-name="CCTV-1" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CCTV-1.png" group-title="📺央视频道",CCTV-1
 http://iptv.huuc.edu.cn/hls/cctv1hd.m3u8
@@ -265,6 +265,8 @@ https://hls-gateway.vpstv.net/streams/708853.m3u8
 http://iptv.666230.xyz/iptv/jsyd.php/G_HUAIJIUJC-CQ
 #EXTINF:-1 tvg-id="28" tvg-name="怀旧剧场" tvg-logo="https://www.xn--rgv465a.top/tvlogo/怀旧剧场.png" group-title="💰央视付费频道",怀旧剧场
 http://www.qfly9236.cn:8888/rtp/239.253.92.98:6120
+#EXTINF:-1 tvg-id="28" tvg-name="怀旧剧场" tvg-logo="https://www.xn--rgv465a.top/tvlogo/怀旧剧场.png" group-title="💰央视付费频道",怀旧剧场
+https://gd202.tv1288.xyz/tsfile/live/1048_1.m3u8
 #EXTINF:-1 tvg-id="29" tvg-name="女性时尚" tvg-logo="https://www.xn--rgv465a.top/tvlogo/女性时尚.png" group-title="💰央视付费频道",女性时尚
 http://iptv.666230.xyz/iptv/jsyd.php/G_NVXINGSS-CQ
 #EXTINF:-1 tvg-id="29" tvg-name="女性时尚" tvg-logo="https://www.xn--rgv465a.top/tvlogo/女性时尚.png" group-title="💰央视付费频道",女性时尚
@@ -8003,6 +8005,10 @@ https://t.freetv.fun/live/sheng-huo-shi-shang-6.m3u8
 
 #EXTINF:-1 tvg-id="405" tvg-name="CHC家庭影院" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CHC家庭影院.png" group-title="♻️未匹配频道",CHC家庭影院
 https://t.freetv.fun/live/chcjia-ting-ying-yuan-4.m3u8
+#EXTINF:-1 tvg-id="2108" tvg-name="◆◆◆　https://raw.githubusercontent.com/kimwang1978/collect-tv-txt/refs/heads/main/assets/freetv/freetv_output_other.txt" tvg-logo="https://www.xn--rgv465a.top/tvlogo/◆◆◆　https://raw.githubusercontent.com/kimwang1978/collect-tv-txt/refs/heads/main/assets/freetv/freetv_output_other.txt.png" group-title="♻️未匹配频道",◆◆◆　https://raw.githubusercontent.com/kimwang1978/collect-tv-txt/refs/heads/main/assets/freetv/freetv_output_other.txt
+
+#EXTINF:-1 tvg-id="405" tvg-name="CHC家庭影院" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CHC家庭影院.png" group-title="♻️未匹配频道",CHC家庭影院
+https://t.freetv.fun/live/chcjia-ting-ying-yuan-1.m3u8
 #EXTINF:-1 tvg-id="2191" tvg-name="HOYTV" tvg-logo="https://www.xn--rgv465a.top/tvlogo/HOYTV.png" group-title="♻️未匹配频道",HOYTV
 http://cdn6.163189.xyz/163189/hoy
 #EXTINF:-1 tvg-id="2192" tvg-name="HUAHEEDAI" tvg-logo="https://www.xn--rgv465a.top/tvlogo/HUAHEEDAI.png" group-title="♻️未匹配频道",HUAHEEDAI
