@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-05-08 07:45:04,http://iptv.huuc.edu.cn/hls/cctv1hd.m3u8
+2026-05-09 07:19:39,http://iptv.huuc.edu.cn/hls/cctv1hd.m3u8
 
 📺央视频道,#genre#
 CCTV-1,http://iptv.huuc.edu.cn/hls/cctv1hd.m3u8
@@ -165,6 +165,7 @@ CETV-4,http://[2409:8087:1a0a:df::4031]:80/ottrrs.hl.chinamobile.com/PLTV/888888
 浙江卫视,https://zby.130519.xyz/PLTV/11/224/3221225727/index.m3u8
 浙江卫视,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226899/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7ETYfTgTra_pUx2cPrgZ_BDw%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
 浙江卫视,http://ali-xwl.cztv.com/live/channel01720Plxw.m3u8
+浙江卫视,http://ali-xwl.cztv.com/live/channel011080Plxw.m3u8
 湖南卫视,http://iptv.huuc.edu.cn/hls/hunanhd.m3u8
 湖南卫视,https://zby.130519.xyz/PLTV/11/224/3221225726/index.m3u8
 湖南卫视,https://hlsbkmgsplive.miguvideo.com/wd-hunanhd-2500/01.m3u8?&HlsSubType=&encrypt=
@@ -2090,6 +2091,7 @@ BRTV卡酷少儿,http://rrs01.hw.gmcc.net:8088/PLTV/81/224/3221226677/1.m3u8
 江苏体育休闲,https://stream1.freetv.fun/af1087a1c24fff7af556ac8e6c5c623303d52966f67a998cefb52c17811b09a2.ctv
 文物宝库,http://cdn.jdshipin.com:8880/hntv.php?id=wwbk
 文物宝库,https://hls-gateway.vpstv.net/streams/708841.m3u8
+河南新闻,https://t.freetv.fun/live/he-nan-xin-wen.m3u8
 邢台生活,https://jwcdnqx.hebyun.com.cn/live/xtcsshpd/1500k/tzwj_video.m3u8
 邯郸公共频道,https://jwcdnqx.hebyun.com.cn/live/hdgg/1500k/tzwj_video.m3u8
 鹿泉二套,https://jwcdnqx.hebyun.com.cn/live/luquaner/1500k/tzwj_video.m3u8
@@ -2268,6 +2270,7 @@ TVBS综艺,https://hls-gateway.vpstv.net/streams/708955.m3u8
 靖天卡通,https://hls-gateway.vpstv.net/streams/476249.m3u8
 靖天卡通,https://t.freetv.fun/live/jing-tian-qia-tong.php
 靖天卡通,https://t.freetv.fun/live/jing-tian-qia-tong-1.m3u8
+靖天卡通,https://t.freetv.fun/live/jing-tian-qia-tong-1.php
 靖洋卡通,http://breezy-audrie-zspace-7524863c.koyeb.app/vipsir?token=leifeng&id=4gtv-4gtv057
 靖洋卡通,https://tmxk.pp.ua/litv.php?token=tmxk&id=4gtv-4gtv057
 靖洋卡通,https://hls-gateway.vpstv.net/streams/476248.m3u8
@@ -4088,6 +4091,7 @@ CHC影迷电影,https://t.freetv.fun/live/chcying-mi-dian-ying-2.m3u8
 更新日期: 2026-4-2 07:18:45,http://pull-hls-f11.douyincdn.com/media/stream-407352347386708652.m3u8?arch_hrchy=w1&exp_hrchy=w1&expire=1775687562&major_anchor_level=common&sign=8120b3fc3ed9fa2f1f7eb400c9168b9a&t_id=037-20260402063241C3EA67C26D88179B4B9E-V89dvG
 tvbs欢乐,https://t.freetv.fun/live/tvbshuan-le.m3u8
 tvbs欢乐,https://t.freetv.fun/live/tvbshuan-le-1.m3u8
+tvbs欢乐,https://t.freetv.fun/live/tvbshuan-le.php
 博斯运动一,https://t.freetv.fun/live/bo-si-yun-dong-yi.php
 博斯运动一,https://t.freetv.fun/live/bo-si-yun-dong-yi-1.php
 东方卫视「Relay」,https://v.iill.top/api/dfws/index.m3u8
