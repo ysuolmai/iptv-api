@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-05-09 07:19:39,http://iptv.huuc.edu.cn/hls/cctv1hd.m3u8
+2026-05-10 07:06:53,http://iptv.huuc.edu.cn/hls/cctv1hd.m3u8
 
 📺央视频道,#genre#
 CCTV-1,http://iptv.huuc.edu.cn/hls/cctv1hd.m3u8
@@ -2478,12 +2478,14 @@ cctv8kMCP,https://live.ottiptv.cc/mcp/cctv8k.m3u8?userid=5559462299&sign=108dfed
 电影,https://t.freetv.fun/live/dian-ying-5.flv
 电影,https://t.freetv.fun/live/dian-ying-6.flv
 电影,https://t.freetv.fun/live/dian-ying-11.m3u8
+电影,https://t.freetv.fun/live/dian-ying-11.flv
 岭南戏曲,https://t.freetv.fun/live/ling-nan-xi-qu-2.m3u8
 岭南戏曲,https://hls-gateway.vpstv.net/streams/476950.m3u8
 岭南戏曲,https://t.freetv.fun/live/ling-nan-xi-qu.m3u8
 岭南戏曲,https://t.freetv.fun/live/ling-nan-xi-qu-3.m3u8
 岭南戏曲,https://t.freetv.fun/live/ling-nan-xi-qu-7.m3u8
 岭南戏曲,https://www.gdtv.cn/tvChannelDetail/15
+岭南戏曲,https://t.freetv.fun/live/ling-nan-xi-qu-9.m3u8
 南京十八生活,http://nklive.nbs.cn/hls/1173a815-bfdb-4c3c-9f73-89ec37ae7716/index.m3u8
 南京文旅纪录,http://nklive.nbs.cn/hls/9b2005c4-046c-422f-ba45-e6adc4f4de07/index.m3u8
 宿迁新闻综合,https://mgtv.ottiptv.cc/mg/639731832.m3u8?userid=5559462299&sign=778a951dfffeb3f9af3e9b213586b1438ae1f9158c4bbd7d9ccba230cd9766a5cee5e74c517a87f85dd18f1821d4628a90dfed89987ecc35c667b52626ae1ad730aca4db115aa4f04b5d905f8fd292464c&auth_token=1b99577efa5a3442ca4c7820d6e0b4e8

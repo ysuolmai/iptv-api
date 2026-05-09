@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/ysuolmai/iptv-api/refs/heads/master/output/epg/epg.gz"
-#EXTINF:-1 tvg-id="1" tvg-name="CCTV-1" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CCTV-1.png" group-title="🕘️更新时间",2026-05-09 07:19:39
+#EXTINF:-1 tvg-id="1" tvg-name="CCTV-1" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CCTV-1.png" group-title="🕘️更新时间",2026-05-10 07:06:53
 http://iptv.huuc.edu.cn/hls/cctv1hd.m3u8
 #EXTINF:-1 tvg-id="1" tvg-name="CCTV-1" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CCTV-1.png" group-title="📺央视频道",CCTV-1
 http://iptv.huuc.edu.cn/hls/cctv1hd.m3u8
@@ -4793,6 +4793,8 @@ https://t.freetv.fun/live/dian-ying-5.flv
 https://t.freetv.fun/live/dian-ying-6.flv
 #EXTINF:-1 tvg-id="952" tvg-name="电影" tvg-logo="https://www.xn--rgv465a.top/tvlogo/电影.png" group-title="♻️未匹配频道",电影
 https://t.freetv.fun/live/dian-ying-11.m3u8
+#EXTINF:-1 tvg-id="952" tvg-name="电影" tvg-logo="https://www.xn--rgv465a.top/tvlogo/电影.png" group-title="♻️未匹配频道",电影
+https://t.freetv.fun/live/dian-ying-11.flv
 #EXTINF:-1 tvg-id="953" tvg-name="岭南戏曲" tvg-logo="https://www.xn--rgv465a.top/tvlogo/岭南戏曲.png" group-title="♻️未匹配频道",岭南戏曲
 https://t.freetv.fun/live/ling-nan-xi-qu-2.m3u8
 #EXTINF:-1 tvg-id="953" tvg-name="岭南戏曲" tvg-logo="https://www.xn--rgv465a.top/tvlogo/岭南戏曲.png" group-title="♻️未匹配频道",岭南戏曲
@@ -4805,6 +4807,8 @@ https://t.freetv.fun/live/ling-nan-xi-qu-3.m3u8
 https://t.freetv.fun/live/ling-nan-xi-qu-7.m3u8
 #EXTINF:-1 tvg-id="953" tvg-name="岭南戏曲" tvg-logo="https://www.xn--rgv465a.top/tvlogo/岭南戏曲.png" group-title="♻️未匹配频道",岭南戏曲
 https://www.gdtv.cn/tvChannelDetail/15
+#EXTINF:-1 tvg-id="953" tvg-name="岭南戏曲" tvg-logo="https://www.xn--rgv465a.top/tvlogo/岭南戏曲.png" group-title="♻️未匹配频道",岭南戏曲
+https://t.freetv.fun/live/ling-nan-xi-qu-9.m3u8
 #EXTINF:-1 tvg-id="954" tvg-name="南京十八生活" tvg-logo="https://www.xn--rgv465a.top/tvlogo/南京十八生活.png" group-title="♻️未匹配频道",南京十八生活
 http://nklive.nbs.cn/hls/1173a815-bfdb-4c3c-9f73-89ec37ae7716/index.m3u8
 #EXTINF:-1 tvg-id="955" tvg-name="南京文旅纪录" tvg-logo="https://www.xn--rgv465a.top/tvlogo/南京文旅纪录.png" group-title="♻️未匹配频道",南京文旅纪录
