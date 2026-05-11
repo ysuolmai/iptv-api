@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-05-11 07:14:55,http://iptv.huuc.edu.cn/hls/cctv1hd.m3u8
+2026-05-12 07:19:05,http://iptv.huuc.edu.cn/hls/cctv1hd.m3u8
 
 📺央视频道,#genre#
 CCTV-1,http://iptv.huuc.edu.cn/hls/cctv1hd.m3u8
@@ -2215,6 +2215,7 @@ SPOTV2,https://hls-gateway.vpstv.net/streams/602231.m3u8
 智林体育,https://tmxk.pp.ua/litv.php?token=tmxk&id=4gtv-4gtv101
 智林体育,https://hls-gateway.vpstv.net/streams/488984.m3u8
 智林体育,https://t.freetv.fun/live/zhi-lin-ti-yu.php
+智林体育,https://t.freetv.fun/live/zhi-lin-ti-yu-1.m3u8
 TVB功夫,http://cdn6.163189.xyz/163189/yzwx
 经典香港电影,https://mgtv.ottiptv.cc/mg/625703337.m3u8?userid=5559462299&sign=457c3d2779bde88d7e0a8ee0540f254d0c85dee2420adc29acf35c3f9208a4481948ed73a7979a6f8e5a8073e6af22f5ad57f6332468eb775d8d15d61de996847fc5b9af7a2e27376514a06133b5417748&auth_token=1b99577efa5a3442ca4c7820d6e0b4e8
 抗战经典影片,https://mgtv.ottiptv.cc/mg/617432318.m3u8?userid=5559462299&sign=bc806cedba4bb89ed8ae5c1ccd96505bf9bde9cbec5b95b6504acd78c3597f91365853e5f288fd71fecdc946738d820d0bb94dddc0101c2780658e2143350b28162ba4f07667fc4bae0ef187c93af9d446&auth_token=1b99577efa5a3442ca4c7820d6e0b4e8
@@ -2264,6 +2265,7 @@ TVBS综艺,https://hls-gateway.vpstv.net/streams/708955.m3u8
 靖天日本,https://mao.ffmking888.dpdns.org/?id=6Z2W5aSp5pel5pys5Yaw&auth=30234cedf871581989d3c91a3daec1e9f50e024aafcfa2247e7d44d91bb8d02fbc3f571b2d67f9d82642cc1d0f133d89
 靖天日本,https://tmxk.pp.ua/litv.php?token=tmxk&id=4gtv-4gtv047
 靖天日本,https://hls-gateway.vpstv.net/streams/476256.m3u8
+靖天日本,https://t.freetv.fun/live/jing-tian-ri-ben-1.m3u8
 靖天卡通,https://mao.ffmking888.dpdns.org/?id=6Z2W5aSp5Y2h6YCa5Yaw&auth=30234cedf871581989d3c91a3daec1e9f50e024aafcfa2247e7d44d91bb8d02fbc3f571b2d67f9d82642cc1d0f133d89
 靖天卡通,http://breezy-audrie-zspace-7524863c.koyeb.app/vipsir?token=leifeng&id=4gtv-4gtv044
 靖天卡通,https://tmxk.pp.ua/litv.php?token=tmxk&id=4gtv-4gtv044
@@ -2282,6 +2284,7 @@ TVBS综艺,https://hls-gateway.vpstv.net/streams/708955.m3u8
 影迷数位电影,https://hls-gateway.vpstv.net/streams/708907.m3u8
 影迷数位电影,https://cdn12.178.indevs.in/163189/a643783ec587540e
 影迷数位电影,https://t.freetv.fun/live/ying-mi-shu-wei-dian-ying.php
+影迷数位电影,https://t.freetv.fun/live/ying-mi-shu-wei-dian-ying-1.m3u8
 影迷数位纪实,https://4gtv.dxjc.pp.ua/li-litv-ftv15/index.m3u8
 影迷数位纪实,https://mao.ffmking888.dpdns.org/?id=5b2x6La35pW45L2N57SA5aam5Yaw&auth=30234cedf871581989d3c91a3daec1e9f50e024aafcfa2247e7d44d91bb8d02fbc3f571b2d67f9d82642cc1d0f133d89
 影迷数位纪实,https://4gtv.dxjc.pp.ua/litv-ftv15/index.m3u8
@@ -2607,6 +2610,7 @@ DAZN 2,https://hls-gateway.vpstv.net/streams/476991.m3u8
 博斯无限,https://t.freetv.fun/live/bo-si-wu-xian.php
 博斯无限,https://t.freetv.fun/live/bo-si-wu-xian-1.php
 博斯无限,https://t.freetv.fun/live/bo-si-wu-xian-1.m3u8
+博斯无限,https://t.freetv.fun/live/bo-si-wu-xian-2.m3u8
 爱尔达娱乐,https://hls-gateway.vpstv.net/streams/708922.m3u8
 韩国娱乐,https://stream1.freetv.fun/glo-bet-1.ctv
 华丽翡翠,http://r.jdshipin.com/thuYX
@@ -3417,6 +3421,7 @@ cgtn,https://t.freetv.fun/live/cgtn-12.m3u8
 cgtn,https://t.freetv.fun/live/cgtn-14.m3u8
 cgtn,https://t.freetv.fun/live/cgtn-10.m3u8
 cgtn,https://t.freetv.fun/live/cgtn-12.php
+cgtn,https://t.freetv.fun/live/cgtn-4.m3u8
 南方影视,https://mgtv.ottiptv.cc/mg/614961829.m3u8?userid=5559462299&sign=6161029795420d80a9680635c6de499b41b7c97a668d922d83ef3597d681562f87faf70c74eeb63a20825c0bcb1c95f4fdafed40714c15f86d89ee8e12690115d0e3dbc2af81635b68eb11a7cd0b77d66b&auth_token=1b99577efa5a3442ca4c7820d6e0b4e8
 影视,https://www.gdtv.cn/tvChannelDetail/53
 影视,https://tv.gxtv.cn/channel/channelivePlay_5e923d82058e11e9ba67e41f13b60c62.html

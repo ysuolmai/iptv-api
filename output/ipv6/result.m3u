@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/ysuolmai/iptv-api/refs/heads/master/output/epg/epg.gz"
-#EXTINF:-1 tvg-id="1" tvg-name="CCTV-1" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CCTV-1.png" group-title="🕘️更新时间",2026-05-11 07:14:55
+#EXTINF:-1 tvg-id="1" tvg-name="CCTV-1" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CCTV-1.png" group-title="🕘️更新时间",2026-05-12 07:19:05
 http://iptv.huuc.edu.cn/hls/cctv1hd.m3u8
 #EXTINF:-1 tvg-id="1" tvg-name="CCTV-1" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CCTV-1.png" group-title="📺央视频道",CCTV-1
 http://iptv.huuc.edu.cn/hls/cctv1hd.m3u8
@@ -4267,6 +4267,8 @@ https://tmxk.pp.ua/litv.php?token=tmxk&id=4gtv-4gtv101
 https://hls-gateway.vpstv.net/streams/488984.m3u8
 #EXTINF:-1 tvg-id="809" tvg-name="智林体育" tvg-logo="https://www.xn--rgv465a.top/tvlogo/智林体育.png" group-title="♻️未匹配频道",智林体育
 https://t.freetv.fun/live/zhi-lin-ti-yu.php
+#EXTINF:-1 tvg-id="809" tvg-name="智林体育" tvg-logo="https://www.xn--rgv465a.top/tvlogo/智林体育.png" group-title="♻️未匹配频道",智林体育
+https://t.freetv.fun/live/zhi-lin-ti-yu-1.m3u8
 #EXTINF:-1 tvg-id="810" tvg-name="TVB功夫" tvg-logo="https://www.xn--rgv465a.top/tvlogo/TVB功夫.png" group-title="♻️未匹配频道",TVB功夫
 http://cdn6.163189.xyz/163189/yzwx
 #EXTINF:-1 tvg-id="811" tvg-name="经典香港电影" tvg-logo="https://www.xn--rgv465a.top/tvlogo/经典香港电影.png" group-title="♻️未匹配频道",经典香港电影
@@ -4365,6 +4367,8 @@ https://mao.ffmking888.dpdns.org/?id=6Z2W5aSp5pel5pys5Yaw&auth=30234cedf87158198
 https://tmxk.pp.ua/litv.php?token=tmxk&id=4gtv-4gtv047
 #EXTINF:-1 tvg-id="824" tvg-name="靖天日本" tvg-logo="https://www.xn--rgv465a.top/tvlogo/靖天日本.png" group-title="♻️未匹配频道",靖天日本
 https://hls-gateway.vpstv.net/streams/476256.m3u8
+#EXTINF:-1 tvg-id="824" tvg-name="靖天日本" tvg-logo="https://www.xn--rgv465a.top/tvlogo/靖天日本.png" group-title="♻️未匹配频道",靖天日本
+https://t.freetv.fun/live/jing-tian-ri-ben-1.m3u8
 #EXTINF:-1 tvg-id="825" tvg-name="靖天卡通" tvg-logo="https://www.xn--rgv465a.top/tvlogo/靖天卡通.png" group-title="♻️未匹配频道",靖天卡通
 https://mao.ffmking888.dpdns.org/?id=6Z2W5aSp5Y2h6YCa5Yaw&auth=30234cedf871581989d3c91a3daec1e9f50e024aafcfa2247e7d44d91bb8d02fbc3f571b2d67f9d82642cc1d0f133d89
 #EXTINF:-1 tvg-id="825" tvg-name="靖天卡通" tvg-logo="https://www.xn--rgv465a.top/tvlogo/靖天卡通.png" group-title="♻️未匹配频道",靖天卡通
@@ -4401,6 +4405,8 @@ https://hls-gateway.vpstv.net/streams/708907.m3u8
 https://cdn12.178.indevs.in/163189/a643783ec587540e
 #EXTINF:-1 tvg-id="827" tvg-name="影迷数位电影" tvg-logo="https://www.xn--rgv465a.top/tvlogo/影迷数位电影.png" group-title="♻️未匹配频道",影迷数位电影
 https://t.freetv.fun/live/ying-mi-shu-wei-dian-ying.php
+#EXTINF:-1 tvg-id="827" tvg-name="影迷数位电影" tvg-logo="https://www.xn--rgv465a.top/tvlogo/影迷数位电影.png" group-title="♻️未匹配频道",影迷数位电影
+https://t.freetv.fun/live/ying-mi-shu-wei-dian-ying-1.m3u8
 #EXTINF:-1 tvg-id="828" tvg-name="影迷数位纪实" tvg-logo="https://www.xn--rgv465a.top/tvlogo/影迷数位纪实.png" group-title="♻️未匹配频道",影迷数位纪实
 https://4gtv.dxjc.pp.ua/li-litv-ftv15/index.m3u8
 #EXTINF:-1 tvg-id="828" tvg-name="影迷数位纪实" tvg-logo="https://www.xn--rgv465a.top/tvlogo/影迷数位纪实.png" group-title="♻️未匹配频道",影迷数位纪实
@@ -5051,6 +5057,8 @@ https://t.freetv.fun/live/bo-si-wu-xian.php
 https://t.freetv.fun/live/bo-si-wu-xian-1.php
 #EXTINF:-1 tvg-id="1049" tvg-name="博斯无限" tvg-logo="https://www.xn--rgv465a.top/tvlogo/博斯无限.png" group-title="♻️未匹配频道",博斯无限
 https://t.freetv.fun/live/bo-si-wu-xian-1.m3u8
+#EXTINF:-1 tvg-id="1049" tvg-name="博斯无限" tvg-logo="https://www.xn--rgv465a.top/tvlogo/博斯无限.png" group-title="♻️未匹配频道",博斯无限
+https://t.freetv.fun/live/bo-si-wu-xian-2.m3u8
 #EXTINF:-1 tvg-id="1050" tvg-name="爱尔达娱乐" tvg-logo="https://www.xn--rgv465a.top/tvlogo/爱尔达娱乐.png" group-title="♻️未匹配频道",爱尔达娱乐
 https://hls-gateway.vpstv.net/streams/708922.m3u8
 #EXTINF:-1 tvg-id="1051" tvg-name="韩国娱乐" tvg-logo="https://www.xn--rgv465a.top/tvlogo/韩国娱乐.png" group-title="♻️未匹配频道",韩国娱乐
@@ -6671,6 +6679,8 @@ https://t.freetv.fun/live/cgtn-14.m3u8
 https://t.freetv.fun/live/cgtn-10.m3u8
 #EXTINF:-1 tvg-id="1747" tvg-name="cgtn" tvg-logo="https://www.xn--rgv465a.top/tvlogo/cgtn.png" group-title="♻️未匹配频道",cgtn
 https://t.freetv.fun/live/cgtn-12.php
+#EXTINF:-1 tvg-id="1747" tvg-name="cgtn" tvg-logo="https://www.xn--rgv465a.top/tvlogo/cgtn.png" group-title="♻️未匹配频道",cgtn
+https://t.freetv.fun/live/cgtn-4.m3u8
 #EXTINF:-1 tvg-id="1748" tvg-name="南方影视" tvg-logo="https://www.xn--rgv465a.top/tvlogo/南方影视.png" group-title="♻️未匹配频道",南方影视
 https://mgtv.ottiptv.cc/mg/614961829.m3u8?userid=5559462299&sign=6161029795420d80a9680635c6de499b41b7c97a668d922d83ef3597d681562f87faf70c74eeb63a20825c0bcb1c95f4fdafed40714c15f86d89ee8e12690115d0e3dbc2af81635b68eb11a7cd0b77d66b&auth_token=1b99577efa5a3442ca4c7820d6e0b4e8
 #EXTINF:-1 tvg-id="1749" tvg-name="影视" tvg-logo="https://www.xn--rgv465a.top/tvlogo/影视.png" group-title="♻️未匹配频道",影视
