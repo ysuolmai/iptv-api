@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-05-14 07:33:29,http://iptv.huuc.edu.cn/hls/cctv1hd.m3u8
+2026-05-15 07:23:28,http://iptv.huuc.edu.cn/hls/cctv1hd.m3u8
 
 📺央视频道,#genre#
 CCTV-1,http://iptv.huuc.edu.cn/hls/cctv1hd.m3u8
@@ -1746,6 +1746,7 @@ TVB J1,https://stream1.freetv.fun/fei-cui-tai-bei-mei-ban-1.ctv
 中视,https://t.freetv.fun/live/zhong-shi-16.m3u8
 中视,https://t.freetv.fun/live/zhong-shi-1-1.m3u8
 中视,https://t.freetv.fun/live/zhong-shi-6.m3u8
+中视,https://litv.tzh911.qzz.io/litv.php?id=4gtv-4gtv040&token=https://t.me/GPT_858
 华视,https://4gtv.dxjc.pp.ua/4gtv-4gtv041/index.m3u8
 华视,https://4gtv.dxjc.pp.ua/li-4gtv-4gtv041/index.m3u8
 华视,https://4gtv.dxjc.pp.ua/of-4gtv-4gtv041/index.m3u8
@@ -1756,6 +1757,7 @@ TVB J1,https://stream1.freetv.fun/fei-cui-tai-bei-mei-ban-1.ctv
 华视,https://t.freetv.fun/live/hua-shi-2.ts
 华视,https://t.freetv.fun/live/hua-shi-3.php
 华视,https://t.freetv.fun/live/hua-shi-1-1.m3u8
+华视,https://litv.tzh911.qzz.io/litv.php?id=4gtv-4gtv041&token=https://t.me/GPT_858
 台视新闻,https://hls-gateway.vpstv.net/streams/476268.m3u8
 台视新闻,https://t.freetv.fun/live/tai-shi-xin-wen-2.m3u8
 台视新闻,https://stream1.freetv.fun/tai-shi-xin-wen-1.m3u8
@@ -2182,6 +2184,7 @@ MOMO综合,https://hls-gateway.vpstv.net/streams/488940.m3u8
 ABC AUSTRALIA,https://hls-gateway.vpstv.net/streams/709090.m3u8
 ABC AUSTRALIA,https://hls-gateway.vpstv.net/streams/709646.m3u8
 BLOOMBERG ASIA,https://epg.pw/stream/d2edf469b9079064a283f4b0811cbf6f2597ebbb3d08dcf77036a4b5a791b7cf.m3u8
+ARIRANG,https://litv.tzh911.qzz.io/litv.php?id=4gtv-4gtv079&token=https://t.me/GPT_858
 大象视界,http://cdn.jdshipin.com:8880/hntv.php?id=xsj
 唯心电视,https://hls-gateway.vpstv.net/streams/709571.m3u8
 TVB明珠,https://hls-gateway.vpstv.net/streams/476936.m3u8
@@ -2207,6 +2210,7 @@ TVBS精采,https://tmxk.pp.ua/litv.php?token=tmxk&id=4gtv-4gtv067
 靖洋戏剧,https://stream1.freetv.fun/jing-yang-xi-ju-1.ctv
 靖洋戏剧,https://t.freetv.fun/live/jing-yang-xi-ju-1.php
 靖洋戏剧,https://t.freetv.fun/live/jing-yang-xi-ju-1-1.php
+靖洋戏剧,https://litv.tzh911.qzz.io/litv.php?id=4gtv-4gtv045&token=https://t.me/GPT_858
 金光布袋戏,https://hls-gateway.vpstv.net/streams/708946.m3u8
 金光布袋戏,http://o11.163189.xyz/stream/live/jgbdx/
 SPOTV,https://hls-gateway.vpstv.net/streams/709509.m3u8
@@ -2222,6 +2226,7 @@ SPOTV2,https://hls-gateway.vpstv.net/streams/602231.m3u8
 智林体育,https://hls-gateway.vpstv.net/streams/488984.m3u8
 智林体育,https://t.freetv.fun/live/zhi-lin-ti-yu.php
 智林体育,https://t.freetv.fun/live/zhi-lin-ti-yu-1.m3u8
+智林体育,https://litv.tzh911.qzz.io/litv.php?id=4gtv-4gtv101&token=https://t.me/GPT_858
 TVB功夫,http://cdn6.163189.xyz/163189/yzwx
 经典香港电影,https://mgtv.ottiptv.cc/mg/625703337.m3u8?userid=5559462299&sign=457c3d2779bde88d7e0a8ee0540f254d0c85dee2420adc29acf35c3f9208a4481948ed73a7979a6f8e5a8073e6af22f5ad57f6332468eb775d8d15d61de996847fc5b9af7a2e27376514a06133b5417748&auth_token=1b99577efa5a3442ca4c7820d6e0b4e8
 抗战经典影片,https://mgtv.ottiptv.cc/mg/617432318.m3u8?userid=5559462299&sign=bc806cedba4bb89ed8ae5c1ccd96505bf9bde9cbec5b95b6504acd78c3597f91365853e5f288fd71fecdc946738d820d0bb94dddc0101c2780658e2143350b28162ba4f07667fc4bae0ef187c93af9d446&auth_token=1b99577efa5a3442ca4c7820d6e0b4e8
@@ -2256,22 +2261,27 @@ TVBS综艺,https://hls-gateway.vpstv.net/streams/708955.m3u8
 靖天综合,https://tmxk.pp.ua/litv.php?token=tmxk&id=4gtv-4gtv046
 靖天综合,https://hls-gateway.vpstv.net/streams/476259.m3u8
 靖天综合,https://t.freetv.fun/live/jing-tian-zong-he.php
+靖天综合,https://litv.tzh911.qzz.io/litv.php?id=4gtv-4gtv046&token=https://t.me/GPT_858
 靖天国际,http://breezy-audrie-zspace-7524863c.koyeb.app/vipsir?token=leifeng&id=4gtv-4gtv063
 靖天国际,https://tmxk.pp.ua/litv.php?token=tmxk&id=4gtv-4gtv063
 靖天国际,https://hls-gateway.vpstv.net/streams/476254.m3u8
+靖天国际,https://litv.tzh911.qzz.io/litv.php?id=4gtv-4gtv063&token=https://t.me/GPT_858
 靖天欢乐,http://breezy-audrie-zspace-7524863c.koyeb.app/vipsir?token=leifeng&id=4gtv-4gtv054
 靖天欢乐,https://tmxk.pp.ua/litv.php?token=tmxk&id=4gtv-4gtv054
 靖天欢乐,https://hls-gateway.vpstv.net/streams/476253.m3u8
+靖天欢乐,https://litv.tzh911.qzz.io/litv.php?id=4gtv-4gtv054&token=https://t.me/GPT_858
 靖天育乐,http://breezy-audrie-zspace-7524863c.koyeb.app/vipsir?token=leifeng&id=4gtv-4gtv062
 靖天育乐,https://mao.ffmking888.dpdns.org/?id=6Z2W5aSp6IKy5qiC5Yaw&auth=30234cedf871581989d3c91a3daec1e9f50e024aafcfa2247e7d44d91bb8d02fbc3f571b2d67f9d82642cc1d0f133d89
 靖天育乐,https://tmxk.pp.ua/litv.php?token=tmxk&id=4gtv-4gtv062
 靖天育乐,https://hls-gateway.vpstv.net/streams/481789.m3u8
 靖天育乐,https://t.freetv.fun/live/jing-tian-yu-le.php
+靖天育乐,https://litv.tzh911.qzz.io/litv.php?id=4gtv-4gtv062&token=https://t.me/GPT_858
 靖天日本,http://breezy-audrie-zspace-7524863c.koyeb.app/vipsir?token=leifeng&id=4gtv-4gtv047
 靖天日本,https://mao.ffmking888.dpdns.org/?id=6Z2W5aSp5pel5pys5Yaw&auth=30234cedf871581989d3c91a3daec1e9f50e024aafcfa2247e7d44d91bb8d02fbc3f571b2d67f9d82642cc1d0f133d89
 靖天日本,https://tmxk.pp.ua/litv.php?token=tmxk&id=4gtv-4gtv047
 靖天日本,https://hls-gateway.vpstv.net/streams/476256.m3u8
 靖天日本,https://t.freetv.fun/live/jing-tian-ri-ben-1.m3u8
+靖天日本,https://litv.tzh911.qzz.io/litv.php?id=4gtv-4gtv047&token=https://t.me/GPT_858
 靖天卡通,https://mao.ffmking888.dpdns.org/?id=6Z2W5aSp5Y2h6YCa5Yaw&auth=30234cedf871581989d3c91a3daec1e9f50e024aafcfa2247e7d44d91bb8d02fbc3f571b2d67f9d82642cc1d0f133d89
 靖天卡通,http://breezy-audrie-zspace-7524863c.koyeb.app/vipsir?token=leifeng&id=4gtv-4gtv044
 靖天卡通,https://tmxk.pp.ua/litv.php?token=tmxk&id=4gtv-4gtv044
@@ -2279,9 +2289,11 @@ TVBS综艺,https://hls-gateway.vpstv.net/streams/708955.m3u8
 靖天卡通,https://t.freetv.fun/live/jing-tian-qia-tong.php
 靖天卡通,https://t.freetv.fun/live/jing-tian-qia-tong-1.m3u8
 靖天卡通,https://t.freetv.fun/live/jing-tian-qia-tong-1.php
+靖天卡通,https://litv.tzh911.qzz.io/litv.php?id=4gtv-4gtv044&token=https://t.me/GPT_858
 靖洋卡通,http://breezy-audrie-zspace-7524863c.koyeb.app/vipsir?token=leifeng&id=4gtv-4gtv057
 靖洋卡通,https://tmxk.pp.ua/litv.php?token=tmxk&id=4gtv-4gtv057
 靖洋卡通,https://hls-gateway.vpstv.net/streams/476248.m3u8
+靖洋卡通,https://litv.tzh911.qzz.io/litv.php?id=4gtv-4gtv057&token=https://t.me/GPT_858
 影迷数位电影,https://mao.ffmking888.dpdns.org/?id=5b2x6La35pW45L2N6Zu75b2x5Yaw&auth=30234cedf871581989d3c91a3daec1e9f50e024aafcfa2247e7d44d91bb8d02fbc3f571b2d67f9d82642cc1d0f133d89
 影迷数位电影,https://4gtv.dxjc.pp.ua/4gtv-4gtv011/index.m3u8
 影迷数位电影,https://4gtv.dxjc.pp.ua/li-4gtv-4gtv011/index.m3u8
@@ -2291,9 +2303,11 @@ TVBS综艺,https://hls-gateway.vpstv.net/streams/708955.m3u8
 影迷数位电影,https://cdn12.178.indevs.in/163189/a643783ec587540e
 影迷数位电影,https://t.freetv.fun/live/ying-mi-shu-wei-dian-ying.php
 影迷数位电影,https://t.freetv.fun/live/ying-mi-shu-wei-dian-ying-1.m3u8
+影迷数位电影,https://litv.tzh911.qzz.io/litv.php?id=4gtv-4gtv011&token=https://t.me/GPT_858
 影迷数位纪实,https://4gtv.dxjc.pp.ua/li-litv-ftv15/index.m3u8
 影迷数位纪实,https://mao.ffmking888.dpdns.org/?id=5b2x6La35pW45L2N57SA5aam5Yaw&auth=30234cedf871581989d3c91a3daec1e9f50e024aafcfa2247e7d44d91bb8d02fbc3f571b2d67f9d82642cc1d0f133d89
 影迷数位纪实,https://4gtv.dxjc.pp.ua/litv-ftv15/index.m3u8
+影迷数位纪实,https://litv.tzh911.qzz.io/litv.php?id=litv-ftv15&token=https://t.me/GPT_858
 amc电影,http://breezy-audrie-zspace-7524863c.koyeb.app/vipsir?token=leifeng&id=4gtv-4gtv017
 amc电影,https://mao.ffmking888.dpdns.org/?id=YW1j6Zu75b2x5Yaw&auth=30234cedf871581989d3c91a3daec1e9f50e024aafcfa2247e7d44d91bb8d02fbc3f571b2d67f9d82642cc1d0f133d89
 amc电影,https://tmxk.pp.ua/litv.php?token=tmxk&id=4gtv-4gtv017
@@ -2308,6 +2322,7 @@ amc电影,https://t.freetv.fun/live/amcdian-ying.m3u8
 采昌影剧,https://tmxk.pp.ua/litv.php?token=tmxk&id=4gtv-4gtv049
 采昌影剧,https://cdn12.178.indevs.in/163189/0a6204ed0261460c
 采昌影剧,https://t.freetv.fun/live/cai-chang-ying-ju-1.php
+采昌影剧,https://litv.tzh911.qzz.io/litv.php?id=4gtv-4gtv049&token=https://t.me/GPT_858
 ELTV娱乐,https://mao.ffmking888.dpdns.org/?id=5oSb54ia6YGU5aib5qiC5Yaw&auth=30234cedf871581989d3c91a3daec1e9f50e024aafcfa2247e7d44d91bb8d02fbc3f571b2d67f9d82642cc1d0f133d89
 ELTV娱乐,http://breezy-audrie-zspace-7524863c.koyeb.app/vipsir?token=leifeng&id=4gtv-4gtv070
 ELTA生活旅游,https://4gtv.dxjc.pp.ua/4gtv-live120/index.m3u8
@@ -2315,15 +2330,18 @@ ELTV生活英语,https://4gtv.dxjc.pp.ua/li-litv-longturn20/index.m3u8
 ELTV生活英语,https://4gtv.dxjc.pp.ua/of-litv-longturn20/index.m3u8
 ELTV生活英语,https://4gtv.dxjc.pp.ua/litv-longturn20/index.m3u8
 ELTV生活英语,https://mao.ffmking888.dpdns.org/?id=RUxUVueUnaa0uaiLseiqnuWPsAxx&auth=30234cedf871581989d3c91a3daec1e9f50e024aafcfa2247e7d44d91bb8d02fbc3f571b2d67f9d82642cc1d0f133d89
+ELTV生活英语,https://litv.tzh911.qzz.io/litv.php?id=litv-xinchuang20&token=https://t.me/GPT_858
 视纳华仁纪实,http://breezy-audrie-zspace-7524863c.koyeb.app/vipsir?token=leifeng&id=4gtv-4gtv013
 视纳华仁纪实,https://tmxk.pp.ua/litv.php?token=tmxk&id=4gtv-4gtv013
 视纳华仁纪实,https://hls-gateway.vpstv.net/streams/493137.m3u8
+视纳华仁纪实,https://litv.tzh911.qzz.io/litv.php?id=4gtv-4gtv013&token=https://t.me/GPT_858
 亚洲旅游,https://mao.ffmking888.dpdns.org/?id=5Lqe5rSy5peF6YGK5Yaw&auth=30234cedf871581989d3c91a3daec1e9f50e024aafcfa2247e7d44d91bb8d02fbc3f571b2d67f9d82642cc1d0f133d89
 亚洲旅游,http://breezy-audrie-zspace-7524863c.koyeb.app/vipsir?token=leifeng&id=4gtv-4gtv076
 亚洲旅游,https://tmxk.pp.ua/litv.php?token=tmxk&id=4gtv-4gtv076
 亚洲旅游,https://hls-gateway.vpstv.net/streams/476274.m3u8
 亚洲旅游,https://t.freetv.fun/live/ya-zhou-lu-you.php
 亚洲旅游,https://t.freetv.fun/live/ya-zhou-lu-you-1.php
+亚洲旅游,https://litv.tzh911.qzz.io/litv.php?id=4gtv-4gtv076&token=https://t.me/GPT_858
 达文西频道,https://mao.ffmking888.dpdns.org/?id=6YGU5paH6KWz6aC76YGT&auth=30234cedf871581989d3c91a3daec1e9f50e024aafcfa2247e7d44d91bb8d02fbc3f571b2d67f9d82642cc1d0f133d89
 达文西频道,http://breezy-audrie-zspace-7524863c.koyeb.app/vipsir?token=leifeng&id=4gtv-4gtv018
 达文西频道,https://tmxk.pp.ua/litv.php?token=tmxk&id=4gtv-4gtv018
@@ -2338,6 +2356,7 @@ Smart知识,https://hls-gateway.vpstv.net/streams/708952.m3u8
 猪哥亮歌厅秀,https://4gtv.dxjc.pp.ua/li-4gtv-4gtv006/index.m3u8
 猪哥亮歌厅秀,https://4gtv.dxjc.pp.ua/4gtv-4gtv006/index.m3u8
 猪哥亮歌厅秀,https://tmxk.pp.ua/litv.php?token=tmxk&id=4gtv-4gtv006
+猪哥亮歌厅秀,https://litv.tzh911.qzz.io/litv.php?id=4gtv-4gtv006&token=https://t.me/GPT_858
 美国之音,http://breezy-audrie-zspace-7524863c.koyeb.app/vipsir?token=leifeng&id=litv-ftv03
 美国之音,https://tmxk.pp.ua/litv.php?token=tmxk&id=litv-ftv03
 时尚运动X,https://4gtv.dxjc.pp.ua/li-4gtv-4gtv014/index.m3u8
@@ -2345,6 +2364,7 @@ Smart知识,https://hls-gateway.vpstv.net/streams/708952.m3u8
 时尚运动X,https://4gtv.dxjc.pp.ua/4gtv-4gtv014/index.m3u8
 时尚运动X,http://breezy-audrie-zspace-7524863c.koyeb.app/vipsir?token=leifeng&id=4gtv-4gtv014
 时尚运动X,https://tmxk.pp.ua/litv.php?token=tmxk&id=4gtv-4gtv014
+时尚运动X,https://litv.tzh911.qzz.io/litv.php?id=4gtv-4gtv014&token=https://t.me/GPT_858
 GINXEsportsTV,http://breezy-audrie-zspace-7524863c.koyeb.app/vipsir?token=leifeng&id=4gtv-4gtv053
 博斯魅力,http://breezy-audrie-zspace-7524863c.koyeb.app/vipsir?token=leifeng&id=litv-longturn04
 博斯魅力,https://4gtv.dxjc.pp.ua/litv-longturn04/index.m3u8
@@ -2618,6 +2638,8 @@ DAZN 2,https://hls-gateway.vpstv.net/streams/476991.m3u8
 博斯无限,https://t.freetv.fun/live/bo-si-wu-xian-1.m3u8
 博斯无限,https://t.freetv.fun/live/bo-si-wu-xian-2.m3u8
 爱尔达娱乐,https://hls-gateway.vpstv.net/streams/708922.m3u8
+客家电视,https://litv.tzh911.qzz.io/litv.php?id=4gtv-4gtv043&token=https://t.me/GPT_858
+达文西,https://litv.tzh911.qzz.io/litv.php?id=4gtv-4gtv018&token=https://t.me/GPT_858
 韩国娱乐,https://stream1.freetv.fun/glo-bet-1.ctv
 华丽翡翠,http://r.jdshipin.com/thuYX
 华丽翡翠,http://cdn9.163189.xyz/smt1.1.php?id=Tvbjade
@@ -2751,6 +2773,7 @@ TVB88,https://hls-gateway.vpstv.net/streams/709540.m3u8
 大爱电视,https://hls-gateway.vpstv.net/streams/477082.m3u8
 幸福空间居家台,https://hls-gateway.vpstv.net/streams/488986.m3u8
 好消息,https://hls-gateway.vpstv.net/streams/476227.m3u8
+好消息,https://litv.tzh911.qzz.io/litv.php?id=litv-ftv16&token=https://t.me/GPT_858
 原住民频道,https://hls-gateway.vpstv.net/streams/476228.m3u8
 客家电视台,https://hls-gateway.vpstv.net/streams/476229.m3u8
 BBC Earth,https://hls-gateway.vpstv.net/streams/477040.m3u8
@@ -2872,6 +2895,7 @@ ELTA体育 4MAX,https://hls-gateway.vpstv.net/streams/709013.m3u8
 tvN台湾,https://hls-gateway.vpstv.net/streams/708937.m3u8
 电影原声台Cmusic,https://hls-gateway.vpstv.net/streams/708938.m3u8
 Pet Club TV,https://hls-gateway.vpstv.net/streams/708939.m3u8
+Pet Club TV,https://litv.tzh911.qzz.io/litv.php?id=4gtv-4gtv110&token=https://t.me/GPT_858
 TV5MONDESTYLEHD生活时尚,https://hls-gateway.vpstv.net/streams/708940.m3u8
 Global Trekke台湾,https://hls-gateway.vpstv.net/streams/708941.m3u8
 History 台湾,https://hls-gateway.vpstv.net/streams/708942.m3u8
@@ -3404,6 +3428,7 @@ BAND NEWS,https://stream1.freetv.fun/band-news-1.m3u8
 BAND NEWS,https://stream1.freetv.fun/band-news-2.ctv
 TVB千禧经典,http://php.jdshipin.com/smt.php?id=Tvbclassic
 TVB千禧经典,http://php.jdshipin.com/TVOD/iptv.php?id=tvbc
+国会2,https://litv.tzh911.qzz.io/litv.php?id=4gtv-4gtv085&token=https://t.me/GPT_858
 小猪优版剧院,https://www.goodiptv.club/douyu/10297898
 视频4K,http://r.jdshipin.com/ln4xk
 视频4K-2,http://r.jdshipin.com/Lqdwf
@@ -3973,9 +3998,12 @@ CGTN英语,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225604/index.m
 TVB 华丽,http://php.jdshipin.com:8880/smt.php?id=Tvbjade
 古装神剧,https://live.metshop.top/douyu/338759
 武侠电视剧,https://live.metshop.top/yy/1459331991
+Mezzo Live,https://litv.tzh911.qzz.io/litv.php?id=4gtv-4gtv083&token=https://t.me/GPT_858
+TRACE Sport Stars,https://litv.tzh911.qzz.io/litv.php?id=4gtv-4gtv077&token=https://t.me/GPT_858
 博斯高球二,https://t.freetv.fun/live/bo-si-gao-qiu-er.php
 博斯高球二,https://t.freetv.fun/live/bo-si-gao-qiu-er-1.m3u8
 博斯运动二,https://t.freetv.fun/live/bo-si-yun-dong-er.php
+好消息2,https://litv.tzh911.qzz.io/litv.php?id=litv-ftv17&token=https://t.me/GPT_858
 ◆◆◆　https://raw.githubusercontent.com/zzmaze/iptv/main/itvlist.txt
 
 
@@ -4195,3 +4223,10 @@ ViuTV (源2),http://php.jdshipin.com/TVOD/iptv.php?id=viutv2
 美亚电影国,http://php.jdshipin.com:8880/TVOD/iptv.php?id=meiya
 ◆◆◆　https://raw.githubusercontent.com/kimwang1978/collect-tv-txt/main/assets/special/special.txt
 凤凰中文,https://stream1.freetv.fun/2b657a181daa345025199e7d6b8de95a1a87b19abceafbd16e2499a49da33c6f.m3u8
+爱尔达宠物运动,https://litv.tzh911.qzz.io/litv.php?id=4gtv-4gtv070&token=https://t.me/GPT_858
+CLASSICA,https://litv.tzh911.qzz.io/litv.php?id=4gtv-4gtv059&token=https://t.me/GPT_858
+GINX Esports TV,https://litv.tzh911.qzz.io/litv.php?id=4gtv-4gtv053&token=https://t.me/GPT_858
+MyCinemaEurope,https://litv.tzh911.qzz.io/litv.php?id=litv-ftv10&token=https://t.me/GPT_858
+TRACE Urban,https://litv.tzh911.qzz.io/litv.php?id=4gtv-4gtv082&token=https://t.me/GPT_858
+韩国娱乐台KMTV,https://litv.tzh911.qzz.io/litv.php?id=4gtv-4gtv016&token=https://t.me/GPT_858
+国会1,https://litv.tzh911.qzz.io/litv.php?id=4gtv-4gtv084&token=https://t.me/GPT_858
