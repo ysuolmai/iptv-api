@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-05-28 07:33:28,http://iptv.huuc.edu.cn/hls/cctv1hd.m3u8
+2026-05-29 07:29:15,http://iptv.huuc.edu.cn/hls/cctv1hd.m3u8
 
 📺央视频道,#genre#
 CCTV-1,http://iptv.huuc.edu.cn/hls/cctv1hd.m3u8
@@ -1751,6 +1751,7 @@ TVB Plus,http://r.jdshipin.com/ndGgS
 TVB Plus,http://php.jdshipin.com/TVOD/iptv.php?id=j2
 TVB Plus,https://stream1.freetv.fun/tvb-j2-2.ctv
 TVB Plus,https://stream1.freetv.fun/tvb-j2-1.m3u8
+TVB Plus,https://o11.163189.xyz/stream/tvb/tvbp/
 VIUTV,http://php.jdshipin.com/TVOD/iptv.php?id=viutv
 VIUTV,http://php.jdshipin.com/TVOD/iptv.php?id=viutv2
 VIUTV,https://smt.1678520.xyz/smt3.2.3.php?id=viu1_twn
@@ -2326,6 +2327,10 @@ BRTV卡酷少儿,http://rrs01.hw.gmcc.net:8088/PLTV/81/224/3221226677/1.m3u8
 河南新闻,https://t.freetv.fun/live/he-nan-xin-wen-1.php
 河南新闻,https://t.freetv.fun/live/he-nan-xin-wen-1.smil
 河南新闻,https://t.freetv.fun/live/he-nan-xin-wen.php
+河南乡村,http://tvcdn.stream3.hndt.com/tv/65b8302b017e100019dc540f00000000_transios/playlist.m3u8?wsSecret=1d3b1972b540b8bbd3f56e61a31f0f79&wsTime=1779933565
+河南乡村,http://tvcdn.stream3.hndt.com/tv/65b8302b017e100019dc540f00000000_transios/playlist.m3u8?wsSecret=37317cacaaaa0b9e8e3ee56797d10169&wsTime=1779948032
+象视界,http://tvcdn.stream3.hndt.com/tv/d34d1a2b0178100022de972e00000000_transios/playlist.m3u8?wsSecret=d0c1b56402f31151a787010d9616f33a&wsTime=1779933565
+象视界,http://tvcdn.stream3.hndt.com/tv/d34d1a2b0178100022de972e00000000_transios/playlist.m3u8?wsSecret=8f8d3b25bc6de3baabbded90dbf0cfb0&wsTime=1779948032
 邢台生活,https://jwcdnqx.hebyun.com.cn/live/xtcsshpd/1500k/tzwj_video.m3u8
 邯郸公共频道,https://jwcdnqx.hebyun.com.cn/live/hdgg/1500k/tzwj_video.m3u8
 鹿泉二套,https://jwcdnqx.hebyun.com.cn/live/luquaner/1500k/tzwj_video.m3u8
@@ -2712,6 +2717,8 @@ DOTA2,https://live.ottiptv.cc/douyu/3811559
 跑跑卡丁车,https://live.ottiptv.cc/douyu/7722576
 跑跑卡丁车手游,https://live.ottiptv.cc/douyu/6672862
 都市,https://tv.gxtv.cn/channel/channelivePlay_fdbaf085f9fe11e88bcfe41f13b60c62.html
+都市,http://tvcdn.stream3.hndt.com/tv/65c3fbc5017e1000fde13faa00000000_transios/playlist.m3u8?wsSecret=c9b781d031fd0075f3ca1f67d34ac7f3&wsTime=1779933565
+都市,http://tvcdn.stream3.hndt.com/tv/65c3fbc5017e1000fde13faa00000000_transios/playlist.m3u8?wsSecret=e6d82f4c5f4bb8e9269a3b1153c2276b&wsTime=1779948032
 HBO,https://hls-gateway.vpstv.net/streams/476278.m3u8
 HBO,https://hls-gateway.vpstv.net/streams/476974.m3u8
 HBO,https://hls-gateway.vpstv.net/streams/709103.m3u8
@@ -2731,15 +2738,24 @@ cctv8kMCP,https://live.ottiptv.cc/mcp/cctv8k.m3u8?userid=5559462299&sign=108dfed
 河南卫视MCP,https://live.ottiptv.cc/mcp/henan.m3u8?userid=5559462299&sign=f3cd24bf0bb8b81b0f0c655968709e9b0c296992ceeedb5d6dbe51158273cdb9e088eba434d7a1e307b2a4adce1fe60c0856a71a853a492e52a8fda8d43d78cab3b1d1f621f33cdcf9afea1910&auth_token=1b99577efa5a3442ca4c7820d6e0b4e8
 海南卫视MCP,https://live.ottiptv.cc/mcp/hainan.m3u8?userid=5559462299&sign=cd89d88de0a7dbfbbe80ea3b28ab94752fd81d371a26b380c9a586ad9241e500445840babe1995d7878e6066f03049896d765954df62823d0adf2bbe3ec498c2b484dad044169a8313766228b5a1&auth_token=1b99577efa5a3442ca4c7820d6e0b4e8
 民生,https://www.gdtv.cn/tvChannelDetail/48
+民生,http://tvcdn.stream3.hndt.com/tv/65bef28a017e10009c49d5f900000000_transios/playlist.m3u8?wsSecret=a084f65b7b8dc0ffad7f9afc8853319a&wsTime=1779933565
+民生,http://tvcdn.stream3.hndt.com/tv/65bef28a017e10009c49d5f900000000_transios/playlist.m3u8?wsSecret=2375cabe725b1a27ebb57b8e384a160d&wsTime=1779948032
+电视剧,http://tvcdn.stream3.hndt.com/tv/65bd329b017e1000648cd2ed00000000_transios/playlist.m3u8?wsSecret=7c714082da38857d9e96b66a8a2f8c0e&wsTime=1779933565
+电视剧,http://tvcdn.stream3.hndt.com/tv/65bd329b017e1000648cd2ed00000000_transios/playlist.m3u8?wsSecret=fbc924f54b3e3988f6ee3c635465ebb2&wsTime=1779948032
 青海卫视MCP,https://live.ottiptv.cc/mcp/qinghai.m3u8?userid=5559462299&sign=46bd451b4ddce9160f86371f486c3ac44abd273f0d75529a529b26e6960a196f0711cfae2d40fdec3ffe295f1059b254a0b91a3e0351e4f8002e3c61e21a581c799c703851321f93c5a219b6bb84ac&auth_token=1b99577efa5a3442ca4c7820d6e0b4e8
 河北卫视MCP,https://live.ottiptv.cc/mcp/hebei.m3u8?userid=5559462299&sign=b2733d711e3f45ea8d7cc9c10c13e5c89ef0d14ab4aa57b3d5ae341c48b3953cd1a03c8f27dc68ee5435de858c9936a7a17962ac06d3e6fe9171beeca030e3e6f610adbe3a90662910ceefbade&auth_token=1b99577efa5a3442ca4c7820d6e0b4e8
 安徽卫视MCP,https://live.ottiptv.cc/mcp/anhui.m3u8?userid=5559462299&sign=94a11302ba258aa8be2fb1838faea10d3a506bca2522877dd5e02ce8130b9b9cd1cdecea2d8189b771f2ab9509ad03f5871e4104970bf451c6e33d19bdeda4fbe5479e00bddf440878c6baeafe&auth_token=1b99577efa5a3442ca4c7820d6e0b4e8
 兵团卫视MCP,https://live.ottiptv.cc/mcp/bintuan.m3u8?userid=5559462299&sign=1f5314e234017416285d99ac6e022a0df08b59010641ad0b5c7339ceb47374dd8f46c646d2764de97011354e9c8ed9a6345f84cd2755e60901db7aa65f6f7fa15f0148773dac29d19ee36c025664d2&auth_token=1b99577efa5a3442ca4c7820d6e0b4e8
 吉林卫视MCP,https://live.ottiptv.cc/mcp/jiling.m3u8?userid=5559462299&sign=6c3cbf901c906b7fedbe0ef09be88f8a77fd671d27a212241a79e8f2bb3acfbcccb3ad56e41b2d53c12752e431db73d32c8610efd92e836439d680a278dbc9fa1ad44b81bce53db95d4775c243a9&auth_token=1b99577efa5a3442ca4c7820d6e0b4e8
 新疆卫视MCP,https://live.ottiptv.cc/mcp/xinjiang.m3u8?userid=5559462299&sign=161a8a167a80f0a881760d742a08b9bab7b77d78cc5cc95608f9ce44a98b7eeafa3274f3487aef8ad442723e70e1db8bcf8effaf949162cb67e6dcfcef4adbb52273443c044fb4f461b511be4c8c6ea6&auth_token=1b99577efa5a3442ca4c7820d6e0b4e8
+法治,http://tvcdn.stream3.hndt.com/tv/65be54a9017e1000af59fb4800000000_transios/playlist.m3u8?wsSecret=259d378340840e870ec129564a0e7ebb&wsTime=1779933565
+法治,http://tvcdn.stream3.hndt.com/tv/65be54a9017e1000af59fb4800000000_transios/playlist.m3u8?wsSecret=fb5eca60d4d6e795250a4201169e31f8&wsTime=1779948032
 新闻,https://www.gdtv.cn/tvChannelDetail/45
 新闻,https://t.freetv.fun/live/xin-wen.m3u8
+新闻,http://tvcdn.stream3.hndt.com/tv/65bb6966017e100059b75a8500000000_transios/playlist.m3u8?wsSecret=7b993e8bbf49b704b1de94505f7abb6b&wsTime=1779933565
 湖北卫视MCP,https://live.ottiptv.cc/mcp/hubei.m3u8?userid=5559462299&sign=62f85905e26f898373ac9e1ab56d6f4c3c4e3ae8f89c9241b6f03a16d42e047914c6e5aba0cc422884370e689d1944d1fd16e9c8d45caf201027bd5dda473324696c8783fcc37ec4eb456f3296&auth_token=1b99577efa5a3442ca4c7820d6e0b4e8
+公共,http://tvcdn.stream3.hndt.com/tv/65b93894017e10000ae6b07d00000000_transios/playlist.m3u8?wsSecret=76bf0b32777370c2693060727dcf4e36&wsTime=1779933565
+公共,http://tvcdn.stream3.hndt.com/tv/65b93894017e10000ae6b07d00000000_transios/playlist.m3u8?wsSecret=f15a4730fd0c829577ee9495dd9aeff4&wsTime=1779948032
 江西卫视MCP,https://live.ottiptv.cc/mcp/jiangxi.m3u8?userid=5559462299&sign=d12de9bed1b55a2753e61f8b942853e09216f45fe6ee4f0570678acdae0cac17daf047dabae4b7bfead76b466bf49492916540c64ae9b3dd4ae56272949a5768389a62e1a7cad0a4965533664b5304&auth_token=1b99577efa5a3442ca4c7820d6e0b4e8
 云南卫视MCP,https://live.ottiptv.cc/mcp/yunnan.m3u8?userid=5559462299&sign=42ee1c1eb497b0d791e5f746784996f014fe30d50c5ea7d70208df8236f3ca11c8b91b1882fa03c463c310e68517edef11cea8819b7bfa40ae99e78de054e1a1a0e4f9a84532c764a0d1d767e174&auth_token=1b99577efa5a3442ca4c7820d6e0b4e8
 西藏卫视MCP,https://live.ottiptv.cc/mcp/xizang.m3u8?userid=5559462299&sign=2a9d6751c6e6f78cc0465f5e557b8b4e6d45292527052e89e7ae123c66b0354552381a5135db921243b8afdaefb871b845ec2fa4a53e616f58e4076fb87ceb03fd3a2ac6634f16dc272bdbe12809&auth_token=1b99577efa5a3442ca4c7820d6e0b4e8
@@ -2955,6 +2971,8 @@ CGTN阿拉伯语,http://gslbmgsplive.miguvideo.com/envivo_v/SD/cctv/alabo/1000/i
 新动力量创一流,http://gslbmgsplive.miguvideo.com/migu/virtuallive2/5900002409/51/20210706/index.m3u8?msisdn=20eb76f0f505d834ea2b9996e4361bc7&mdspid=&spid=800033&netType=0&sid=5910019523&pid=2028597139&timestamp=20260522051651&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=713589837&ParentNodeID=-99&assertID=5910019523&client_ip=39.98.87.107&SecurityKey=20260522051651&promotionId=&mvid=5900002419&mcid=500020&playurlVersion=WX-A1-9.5.1.2-RELEASE&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&puData=af390f4cdc619b482ce29fa5eea85ace&ddCalcu=eacfva3a59k80aafe4ec5dacf69129ebc428&sv=10004&ct=android
 新动力量创一流,http://gslbmgsplive.miguvideo.com/migu/virtuallive2/5900002409/51/20210706/index.m3u8?msisdn=f9dc37b6bfb7f3380945f136ff77ebb0&mdspid=&spid=800033&netType=0&sid=5910019523&pid=2028597139&timestamp=20260523054639&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=713589837&ParentNodeID=-99&assertID=5910019523&client_ip=47.92.227.102&SecurityKey=20260523054639&promotionId=&mvid=5900002419&mcid=500020&playurlVersion=WX-A1-9.5.1.2-RELEASE&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&puData=b449b8b73f6c578e73fe5ee298e5af87&ddCalcu=7b84vf4aa9k5bae88b9723efe65ce5f7387e&sv=10004&ct=android
 新动力量创一流,http://gslbmgsplive.miguvideo.com/migu/virtuallive2/5900002409/51/20210706/index.m3u8?msisdn=61b22702567c38e109cd73d6f86055fa&mdspid=&spid=800033&netType=0&sid=5910019523&pid=2028597139&timestamp=20260524053515&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=713589837&ParentNodeID=-99&assertID=5910019523&client_ip=47.92.227.102&SecurityKey=20260524053515&promotionId=&mvid=5900002419&mcid=500020&playurlVersion=ZQ-A1-9.5.1.2-RELEASE&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&puData=4c353387805d88259b163695129e88fd&ddCalcu=d4fcv83a85ke3a9328175890653d6818b295&sv=10004&ct=android
+欢腾购物,http://tvcdn.stream3.hndt.com/tv/65ba653b017e1000d4ee41c700000000_transios/playlist.m3u8?wsSecret=39f53fcebe5fe4f20d7a187f243013db&wsTime=1779933565
+欢腾购物,http://tvcdn.stream3.hndt.com/tv/65ba653b017e1000d4ee41c700000000_transios/playlist.m3u8?wsSecret=c599f897261266f33c8b1042ae56250c&wsTime=1779948032
 湖州娱乐,https://t.freetv.fun/live/hu-zhou-yu-le.m3u8
 经典动画大集合,http://gslbmgsplive.miguvideo.com/migu/kailu/jingdiandonghua/51/20250514/index.m3u8?msisdn=6c78e96980debf513e6d90481b00f9fe&mdspid=&spid=699004&netType=0&sid=5500315652&pid=2028597139&timestamp=20260515054834&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=629942219&ParentNodeID=-99&assertID=5500315652&client_ip=39.98.181.246&SecurityKey=20260515054834&promotionId=&mvid=5101034205&mcid=500020&playurlVersion=WX-A1-9.5.1-RELEASE&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&puData=0eb242655e957278d5989813b39c5f26&ddCalcu=602evfba52ac4a9236b5351e8995879257d8&sv=10004&ct=android
 经典动画大集合,http://gslbmgsplive.miguvideo.com/migu/kailu/jingdiandonghua/51/20250514/index.m3u8?msisdn=0f2582e74883fc14cf58136b4cec7f62&mdspid=&spid=699004&netType=0&sid=5500315652&pid=2028597139&timestamp=20260516053951&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=629942219&ParentNodeID=-99&assertID=5500315652&client_ip=39.98.179.220&SecurityKey=20260516053951&promotionId=&mvid=5101034205&mcid=500020&playurlVersion=ZQ-A1-9.5.1-RELEASE&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&puData=a6e3ba76627413915d1adae3b15f2fef&ddCalcu=fae6vfea23afba5a17b636e2a7d4a113d951&sv=10004&ct=android
@@ -3108,6 +3126,7 @@ DAZN 2,https://hls-gateway.vpstv.net/streams/476991.m3u8
 华丽翡翠,http://cdn9.163189.xyz/smt1.1.php?id=Tvbjade
 华丽翡翠,http://php.jdshipin.com/TVOD/iptv.php?id=huali2
 华丽翡翠,https://php.jdshipin.com:2096/smt.php?id=Tvbjade
+华丽翡翠,https://o11.163189.xyz/stream/live/hlt/
 TVBS精彩,https://hls-gateway.vpstv.net/streams/477075.m3u8
 女神系列,https://live.metshop.top/huya/11336571
 狄仁杰,https://live.ottiptv.cc/yy/1351755386
@@ -4020,6 +4039,8 @@ Astro 欢喜,https://o11.163189.xyz/stream/live/hxt/
 直播38,http://[2409:8087:5e00:24::2d]:6610/000000001000/1/3000000020000011522/index.m3u8?channel-id=FifastbLive&Contentid=3000000020000011522&livemode=1&stbId=YanG-1989
 北京4K,http://[2409:8087:1:20:20::26]/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226550/1.m3u8?GuardEncType=2&accountinfo=~~V2.0~e2qS8h6u-xp3gd50vNr1sw~_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNPPFD3HVWEytEVyliOxehfe%2CEND
 潮州综合,https://t.freetv.fun/live/chao-zhou-zong-he.m3u8
+◆◆◆　https://raw.githubusercontent.com/Supprise0901/TVBox_live/main/live.txt
+新闻,http://tvcdn.stream3.hndt.com/tv/65bb6966017e100059b75a8500000000_transios/playlist.m3u8?wsSecret=47e08d257790a86150b5826318ed1c62&wsTime=1779948032
 辽宁广播电视台体育休闲,https://mgtv.ottiptv.cc/mg/962067526.m3u8?userid=5559462299&sign=5679d3b1776e64886cc735334951fd94d83f536cb35e95534e789aa55ca1bf205a50236085d87496a405281ffb41b45acb2b510dc40f97726b599fa3f707e8d07a2c90e5587394cdd85a651d686c044a2c&auth_token=1b99577efa5a3442ca4c7820d6e0b4e8
 辽宁广播电视台公共,https://mgtv.ottiptv.cc/mg/962045223.m3u8?userid=5559462299&sign=fe75fd56cef0905920f75b487e1f6c64d6afc4bdfd03af4cf11ac2a73dfa66cd334c99f55cc492438406af4b042b0e236eb98e2abdf53e372023d17192cf7ce491ce12d9be2469f74c9bed9fd734dfd2d9&auth_token=1b99577efa5a3442ca4c7820d6e0b4e8
 宁夏广播电视台经济,https://mgtv.ottiptv.cc/mg/962067520.m3u8?userid=5559462299&sign=d3ae409651a26d4ab4de00a1807a2fb46976bf9d760ee44825790c5e23849c021a35503aa7b4c3328306ea8cb74dfc80fb6d402c68ddd622264b05b26005162581da7e788fd2d0eb5a975f52bf0cf03bd1&auth_token=1b99577efa5a3442ca4c7820d6e0b4e8
@@ -5394,3 +5415,8 @@ cgtn,https://t.freetv.fun/live/cgtn-1.smil
 藏语卫视,https://t.freetv.fun/live/cang-yu-wei-shi.php
 十堰经济,https://t.freetv.fun/live/shi-yan-jing-ji.m3u8
 广东大湾区卫视,https://t.freetv.fun/live/yan-dong-da-wan-qu-wei-shi.m3u8
+重庆卫视MCP,https://live.ottiptv.cc/mcp/chongqing.m3u8?userid=5559462299&sign=086b7f4fd6a2c70f1d1e1b520479d867e38e95b7256bd4b24705bd7f546d34e28b1dd28ea7326b4fb8492f77618ee8a462e74f87e48bab3908e34a79d48a43cb5dfaf22b0221cf5341cbf701f19d0f3ea2&auth_token=1b99577efa5a3442ca4c7820d6e0b4e8
+广西卫视MCP,https://live.ottiptv.cc/mcp/guangxi.m3u8?userid=5559462299&sign=1c17cdb7c930700b066c7c68c6ebb7c075d459e6e9f321e73acbb47af5d86f3ab32f6df5652788a8d9d99400c674421e0483e5602b582ba71b211220f7b3ff302e2eae60d79c718cdd68f00f300239&auth_token=1b99577efa5a3442ca4c7820d6e0b4e8
+四川卫视MCP,https://live.ottiptv.cc/mcp/sichuan.m3u8?userid=5559462299&sign=014a3230258282ee6df452f746a32488bc1213b6c5c32e673cbab602d62bc4ec28388a6ae6002bbc44f02b15f0fb70bf8297ee0d6fd8fa721b61f0f50692ebd10496f5a96fa1da4cdbcd081e8498d1&auth_token=1b99577efa5a3442ca4c7820d6e0b4e8
+黑龙江卫视MCP,https://live.ottiptv.cc/mcp/heilongjiang.m3u8?userid=5559462299&sign=a2bde4966fc64c235e56c0fd5341d2f16eeda3bf626c050b971b425875b5967a173c6f6946af8ed7effa938975caea165208fc016fa8344ceee2032d309073c1059b012fbd377e0705ce7e677cf98e3c8025ec2f&auth_token=1b99577efa5a3442ca4c7820d6e0b4e8
+怀旧剧场MCP,https://live.ottiptv.cc/mcp/hjjc.m3u8?userid=5559462299&sign=251ce6bb3da96a9f26d235712d89a59c78780b5b7cae2dcecc1c1ae8b823d35e830e71501eb65160f555b212eec2d78b0d7cceeca4a9d281f158769d9a5e7682787cd3015db7a33c17ea2161&auth_token=1b99577efa5a3442ca4c7820d6e0b4e8
