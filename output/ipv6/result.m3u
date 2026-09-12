@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/ysuolmai/iptv-api/refs/heads/master/output/epg/epg.gz"
-#EXTINF:-1 tvg-id="1" tvg-name="CCTV-1" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CCTV-1.png" group-title="🕘️更新时间",2026-09-11 08:02:40
+#EXTINF:-1 tvg-id="1" tvg-name="CCTV-1" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CCTV-1.png" group-title="🕘️更新时间",2026-09-12 08:13:24
 http://iptv.huuc.edu.cn/hls/cctv1hd.m3u8
 #EXTINF:-1 tvg-id="1" tvg-name="CCTV-1" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CCTV-1.png" group-title="📺央视频道",CCTV-1
 http://iptv.huuc.edu.cn/hls/cctv1hd.m3u8
@@ -3511,6 +3511,8 @@ http://gslbmgsplive.miguvideo.com/wd_r3/cnr/faxianzhilv/2000/index.m3u8?msisdn=6
 http://gslbmgsplive.miguvideo.com/wd_r3/cnr/faxianzhilv/2000/index.m3u8?msisdn=8440cc62b0245295cfb13bfdb72b5540&mdspid=&spid=699004&netType=0&sid=5500212893&pid=2028597139&timestamp=20260909062122&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=624878970&ParentNodeID=-99&assertID=5500212893&client_ip=39.103.182.111&SecurityKey=20260909062122&promotionId=&mvid=5100001701&mcid=500020&playurlVersion=WX-A1-9.8.2-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&puData=d2294bf266ea83c237d9927ddd05c32e&ddCalcu=ed22v32ac9l54a0bdfd2d6762e9a98d37c32&sv=10004&ct=android
 #EXTINF:-1 tvg-id="469" tvg-name="发现之旅" tvg-logo="https://www.xn--rgv465a.top/tvlogo/发现之旅.png" group-title="♻️未匹配频道",发现之旅
 http://gslbmgsplive.miguvideo.com/wd_r3/cnr/faxianzhilv/2000/index.m3u8?msisdn=dc8606be12b379b3ec0aa4a3fa66016f&mdspid=&spid=699004&netType=0&sid=5500212893&pid=2028597139&timestamp=20260910075037&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=624878970&ParentNodeID=-99&assertID=5500212893&client_ip=39.103.188.159&SecurityKey=20260910075037&promotionId=&mvid=5100001701&mcid=500020&playurlVersion=WX-A1-9.8.2-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&puData=4980b81f205ebbc5448b3dd229930ee4&ddCalcu=44e9ve8a00l3ba98912f22d0d53ebb8b4c45&sv=10004&ct=android
+#EXTINF:-1 tvg-id="469" tvg-name="发现之旅" tvg-logo="https://www.xn--rgv465a.top/tvlogo/发现之旅.png" group-title="♻️未匹配频道",发现之旅
+http://gslbmgsplive.miguvideo.com/wd_r3/cnr/faxianzhilv/2000/index.m3u8?msisdn=cabc4756703392c02cfa2064809b8e64&mdspid=&spid=699004&netType=0&sid=5500212893&pid=2028597139&timestamp=20260911075040&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=624878970&ParentNodeID=-99&assertID=5500212893&client_ip=39.103.188.159&SecurityKey=20260911075040&promotionId=&mvid=5100001701&mcid=500020&playurlVersion=ZQ-A1-9.9.1-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&puData=70d11e24272a1e9ca8c67f6c68a4fbe6&ddCalcu=67e0vbdaf1l41aae8264c267f27a61ce89ac&sv=10004&ct=android
 #EXTINF:-1 tvg-id="470" tvg-name="嘉佳卡通" tvg-logo="https://www.xn--rgv465a.top/tvlogo/嘉佳卡通.png" group-title="♻️未匹配频道",嘉佳卡通
 https://t.freetv.fun/live/jia-jia-qia-tong-5.php
 #EXTINF:-1 tvg-id="470" tvg-name="嘉佳卡通" tvg-logo="https://www.xn--rgv465a.top/tvlogo/嘉佳卡通.png" group-title="♻️未匹配频道",嘉佳卡通
@@ -4045,6 +4047,8 @@ http://gslbmgsplive.miguvideo.com/migu/kailu/zgtq/51/20251103/index.m3u8?msisdn=
 http://gslbmgsplive.miguvideo.com/migu/kailu/zgtq/51/20251103/index.m3u8?msisdn=a2ca6390a2105a80b1dfdf9c5c414361&mdspid=&spid=600697&netType=0&sid=5910022296&pid=2028597139&timestamp=20260909062156&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=959986621&ParentNodeID=-99&assertID=5910022296&client_ip=39.103.188.159&SecurityKey=20260909062156&promotionId=&mvid=5900006772&mcid=500020&playurlVersion=WX-A1-9.8.2-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&puData=6c8502dd78a2cd8b23a499559bcac614&ddCalcu=461cv68ac5wa0ac2bd9d57589a924cad382b&sv=10004&ct=android
 #EXTINF:-1 tvg-id="498" tvg-name="中国天气" tvg-logo="https://www.xn--rgv465a.top/tvlogo/中国天气.png" group-title="♻️未匹配频道",中国天气
 http://gslbmgsplive.miguvideo.com/migu/kailu/zgtq/51/20251103/index.m3u8?msisdn=977f4eb7b6d0a7ea62212b8f2b5f7c11&mdspid=&spid=600697&netType=0&sid=5910022296&pid=2028597139&timestamp=20260910075109&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=959986621&ParentNodeID=-99&assertID=5910022296&client_ip=39.103.188.159&SecurityKey=20260910075109&promotionId=&mvid=5900006772&mcid=500020&playurlVersion=WX-A1-9.8.2-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&puData=151ede1d417746fd61e8d985f53ca1f6&ddCalcu=61f5v11aaewcda3e51fd548197d784e61f6d&sv=10004&ct=android
+#EXTINF:-1 tvg-id="498" tvg-name="中国天气" tvg-logo="https://www.xn--rgv465a.top/tvlogo/中国天气.png" group-title="♻️未匹配频道",中国天气
+http://gslbmgsplive.miguvideo.com/migu/kailu/zgtq/51/20251103/index.m3u8?msisdn=6cce10c8011e130be10480c986d684f9&mdspid=&spid=600697&netType=0&sid=5910022296&pid=2028597139&timestamp=20260911075117&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=959986621&ParentNodeID=-99&assertID=5910022296&client_ip=39.103.188.159&SecurityKey=20260911075117&promotionId=&mvid=5900006772&mcid=500020&playurlVersion=ZQ-A1-9.9.1-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&puData=39afa3f1c9a4f8e140c9a383baa1a5a5&ddCalcu=53a9v5aaafw1aaa3afb13c893aa49fc80e41&sv=10004&ct=android
 #EXTINF:-1 tvg-id="499" tvg-name="CETV-2 空中课堂" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CETV-2 空中课堂.png" group-title="♻️未匹配频道",CETV-2 空中课堂
 http://[2409:8087:1:20:20::2c]/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226537/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7E7AxXs4eTU2oiWrhopr9sHw%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNNxsM0Bor098BJglrhfEQTl%2CEND
 #EXTINF:-1 tvg-id="500" tvg-name="CETV-3 教育服务" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CETV-3 教育服务.png" group-title="♻️未匹配频道",CETV-3 教育服务
@@ -4589,6 +4593,8 @@ http://gslbmgsplive.miguvideo.com/migu/kailu/cctvlaogushi/50/20231109/index.m3u8
 http://gslbmgsplive.miguvideo.com/migu/kailu/cctvlaogushi/50/20231109/index.m3u8?msisdn=8c474edc99954a1a539e1540cd35a661&mdspid=&spid=699004&netType=0&sid=5910022002&pid=2028597139&timestamp=20260909062121&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=884121956&ParentNodeID=-99&assertID=5910022002&client_ip=39.103.182.111&SecurityKey=20260909062121&promotionId=&mvid=5900006372&mcid=500020&playurlVersion=WX-A1-9.8.2-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&puData=c9501e5ebe2f21d462cdd2c8759f5021&ddCalcu=1c29v05a50lf1a9e557e8bce22dfd2c12d64&sv=10004&ct=android
 #EXTINF:-1 tvg-id="506" tvg-name="老故事" tvg-logo="https://www.xn--rgv465a.top/tvlogo/老故事.png" group-title="♻️未匹配频道",老故事
 http://gslbmgsplive.miguvideo.com/migu/kailu/cctvlaogushi/50/20231109/index.m3u8?msisdn=cf10147f12a57c9224a0c7ef5c0f3192&mdspid=&spid=699004&netType=0&sid=5910022002&pid=2028597139&timestamp=20260910075035&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=884121956&ParentNodeID=-99&assertID=5910022002&client_ip=39.103.182.111&SecurityKey=20260910075035&promotionId=&mvid=5900006372&mcid=500020&playurlVersion=WX-A1-9.8.2-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&puData=f89697d790808920b230b5c7fd2b41bb&ddCalcu=bfb8v19a46lb9a27ddf779c058b0083922b0&sv=10004&ct=android
+#EXTINF:-1 tvg-id="506" tvg-name="老故事" tvg-logo="https://www.xn--rgv465a.top/tvlogo/老故事.png" group-title="♻️未匹配频道",老故事
+http://gslbmgsplive.miguvideo.com/migu/kailu/cctvlaogushi/50/20231109/index.m3u8?msisdn=102060c9f98eb2bb461584792f908bfc&mdspid=&spid=699004&netType=0&sid=5910022002&pid=2028597139&timestamp=20260911075039&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=884121956&ParentNodeID=-99&assertID=5910022002&client_ip=39.103.188.159&SecurityKey=20260911075039&promotionId=&mvid=5900006372&mcid=500020&playurlVersion=ZQ-A1-9.9.1-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&puData=dc36905b547468c7603356eb9ef737fe&ddCalcu=edfcv73a36l79af0e59bb5e4675436380c67&sv=10004&ct=android
 #EXTINF:-1 tvg-id="507" tvg-name="中学生" tvg-logo="https://www.xn--rgv465a.top/tvlogo/中学生.png" group-title="♻️未匹配频道",中学生
 https://mgtv.ottiptv.cc/mg/708869532.m3u8?userid=5559462299&sign=a7d3cad14c38b1f22d562afdfc7a8c761d929ccb2054547f1fa2dbdd0de072a0ff81527aa88f27469f7b441fe4b998a4e587840b3fe4da2ae69934def09f2cc57796d35dbb0628e0c9014f373d5e4b8209&auth_token=1b99577efa5a3442ca4c7820d6e0b4e8
 #EXTINF:-1 tvg-id="507" tvg-name="中学生" tvg-logo="https://www.xn--rgv465a.top/tvlogo/中学生.png" group-title="♻️未匹配频道",中学生
@@ -4961,6 +4967,8 @@ http://gslbmgsplive.miguvideo.com/migu/kailu/20210415/cctvzhongxuesheng/51/index
 http://gslbmgsplive.miguvideo.com/migu/kailu/20210415/cctvzhongxuesheng/51/index.m3u8?msisdn=154986a5ab688f1cbc855c488b021beb&mdspid=&spid=699004&netType=0&sid=5910019355&pid=2028597139&timestamp=20260909062123&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=708869532&ParentNodeID=-99&assertID=5910019355&client_ip=39.103.182.111&SecurityKey=20260909062123&promotionId=&mvid=5900002149&mcid=500020&playurlVersion=WX-A1-9.8.2-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&puData=af1fec3d0fa6e91b5312fe125a7077ec&ddCalcu=caefv71a7fz0ea7ca35d201feaf62e19315b&sv=10004&ct=android
 #EXTINF:-1 tvg-id="507" tvg-name="中学生" tvg-logo="https://www.xn--rgv465a.top/tvlogo/中学生.png" group-title="♻️未匹配频道",中学生
 http://gslbmgsplive.miguvideo.com/migu/kailu/20210415/cctvzhongxuesheng/51/index.m3u8?msisdn=004ac55c2a532a29477d030713ce5cfb&mdspid=&spid=699004&netType=0&sid=5910019355&pid=2028597139&timestamp=20260910075037&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=708869532&ParentNodeID=-99&assertID=5910019355&client_ip=39.103.188.159&SecurityKey=20260910075037&promotionId=&mvid=5900002149&mcid=500020&playurlVersion=WX-A1-9.8.2-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&puData=44c4f26cd6869837f2a85a6276435952&ddCalcu=2454v9ca54z3fa42667c2d66a85689a823f7&sv=10004&ct=android
+#EXTINF:-1 tvg-id="507" tvg-name="中学生" tvg-logo="https://www.xn--rgv465a.top/tvlogo/中学生.png" group-title="♻️未匹配频道",中学生
+http://gslbmgsplive.miguvideo.com/migu/kailu/20210415/cctvzhongxuesheng/51/index.m3u8?msisdn=b40b2d85d547273e52cab7a29cb01475&mdspid=&spid=699004&netType=0&sid=5910019355&pid=2028597139&timestamp=20260911075040&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=708869532&ParentNodeID=-99&assertID=5910019355&client_ip=39.103.182.111&SecurityKey=20260911075040&promotionId=&mvid=5900002149&mcid=500020&playurlVersion=ZQ-A1-9.9.1-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&puData=bbc29203aa07db39c86dcd049da7f4aa&ddCalcu=ababv4caf2z79aa2d0934a0ad0c7dd6b83c9&sv=10004&ct=android
 #EXTINF:-1 tvg-id="508" tvg-name="CGTN" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CGTN.png" group-title="♻️未匹配频道",CGTN
 https://hls-gateway.vpstv.net/streams/709501.m3u8
 #EXTINF:-1 tvg-id="508" tvg-name="CGTN" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CGTN.png" group-title="♻️未匹配频道",CGTN
@@ -5553,6 +5561,8 @@ http://gslbmgsplive.miguvideo.com/wd_r4/peoplecn/shdiaoyu/1200/index.m3u8?msisdn
 http://gslbmgsplive.miguvideo.com/wd_r4/peoplecn/shdiaoyu/1200/index.m3u8?msisdn=2211d5b20cf6470796512b51a8a2eccb&mdspid=&spid=600697&netType=0&sid=5910022184&pid=2028597139&timestamp=20260909062146&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=637444975&ParentNodeID=-99&assertID=5910022184&client_ip=39.103.188.159&SecurityKey=20260909062146&promotionId=&mvid=5100132656&mcid=500020&playurlVersion=WX-A1-9.8.2-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&puData=4bcfba517c4f88aa75327387bdf22e66&ddCalcu=646bveca2fl2bafad5b1778c347f28385a7a&sv=10004&ct=android
 #EXTINF:-1 tvg-id="511" tvg-name="四海钓鱼" tvg-logo="https://www.xn--rgv465a.top/tvlogo/四海钓鱼.png" group-title="♻️未匹配频道",四海钓鱼
 http://gslbmgsplive.miguvideo.com/wd_r4/peoplecn/shdiaoyu/1200/index.m3u8?msisdn=fdc0d459667686cc1de853775c6e415b&mdspid=&spid=600697&netType=0&sid=5910022184&pid=2028597139&timestamp=20260910075059&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=637444975&ParentNodeID=-99&assertID=5910022184&client_ip=39.103.188.159&SecurityKey=20260910075059&promotionId=&mvid=5100132656&mcid=500020&playurlVersion=WX-A1-9.8.2-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&puData=c19f0e56537d381fc638947f9de4e622&ddCalcu=2c21v69aefl40aeed596f573479d833861cf&sv=10004&ct=android
+#EXTINF:-1 tvg-id="511" tvg-name="四海钓鱼" tvg-logo="https://www.xn--rgv465a.top/tvlogo/四海钓鱼.png" group-title="♻️未匹配频道",四海钓鱼
+http://gslbmgsplive.miguvideo.com/wd_r4/peoplecn/shdiaoyu/1200/index.m3u8?msisdn=70271720abaa15628f1b5b19b4f048e7&mdspid=&spid=600697&netType=0&sid=5910022184&pid=2028597139&timestamp=20260911075107&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=637444975&ParentNodeID=-99&assertID=5910022184&client_ip=39.103.182.111&SecurityKey=20260911075107&promotionId=&mvid=5100132656&mcid=500020&playurlVersion=ZQ-A1-9.9.1-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&puData=04acd90394621d8aff8869bd1fb58e9a&ddCalcu=a094veaa8cl5dab9f013d9b49662818df8fa&sv=10004&ct=android
 #EXTINF:-1 tvg-id="512" tvg-name="乐游" tvg-logo="https://www.xn--rgv465a.top/tvlogo/乐游.png" group-title="♻️未匹配频道",乐游
 https://hls-gateway.vpstv.net/streams/708840.m3u8
 #EXTINF:-1 tvg-id="512" tvg-name="乐游" tvg-logo="https://www.xn--rgv465a.top/tvlogo/乐游.png" group-title="♻️未匹配频道",乐游
@@ -6155,22 +6165,30 @@ https://o11.163189.xyz/stream/live/aod/
 http://php.jdshipin.com:8880/TVOD/iptv.php?id=aod
 #EXTINF:-1 tvg-id="608" tvg-name="Astro AOD" tvg-logo="https://www.xn--rgv465a.top/tvlogo/Astro AOD.png" group-title="♻️未匹配频道",Astro AOD
 https://php.jdshipin.com:2096/smt.php?id=Aodhd
+#EXTINF:-1 tvg-id="608" tvg-name="Astro AOD" tvg-logo="https://www.xn--rgv465a.top/tvlogo/Astro AOD.png" group-title="♻️未匹配频道",Astro AOD
+https://cdn3.indevs.in/stream/live/aod/
 #EXTINF:-1 tvg-id="609" tvg-name="Astro AEC" tvg-logo="https://www.xn--rgv465a.top/tvlogo/Astro AEC.png" group-title="♻️未匹配频道",Astro AEC
 http://php.jdshipin.com/smt.php?id=AEC
 #EXTINF:-1 tvg-id="609" tvg-name="Astro AEC" tvg-logo="https://www.xn--rgv465a.top/tvlogo/Astro AEC.png" group-title="♻️未匹配频道",Astro AEC
 https://o11.163189.xyz/stream/live/aec/
 #EXTINF:-1 tvg-id="609" tvg-name="Astro AEC" tvg-logo="https://www.xn--rgv465a.top/tvlogo/Astro AEC.png" group-title="♻️未匹配频道",Astro AEC
 https://hls-gateway.vpstv.net/streams/709009.m3u8
+#EXTINF:-1 tvg-id="609" tvg-name="Astro AEC" tvg-logo="https://www.xn--rgv465a.top/tvlogo/Astro AEC.png" group-title="♻️未匹配频道",Astro AEC
+https://cdn3.indevs.in/stream/live/aec/
 #EXTINF:-1 tvg-id="610" tvg-name="爱奇艺" tvg-logo="https://www.xn--rgv465a.top/tvlogo/爱奇艺.png" group-title="♻️未匹配频道",爱奇艺
 http://php.jdshipin.com/smt.php?id=Qiyi
 #EXTINF:-1 tvg-id="610" tvg-name="爱奇艺" tvg-logo="https://www.xn--rgv465a.top/tvlogo/爱奇艺.png" group-title="♻️未匹配频道",爱奇艺
 https://php.jdshipin.com:2096/smt.php?id=Qiyi
 #EXTINF:-1 tvg-id="610" tvg-name="爱奇艺" tvg-logo="https://www.xn--rgv465a.top/tvlogo/爱奇艺.png" group-title="♻️未匹配频道",爱奇艺
 http://smt.1678520.xyz/smt3.2.3.php?id=Qiyi
+#EXTINF:-1 tvg-id="610" tvg-name="爱奇艺" tvg-logo="https://www.xn--rgv465a.top/tvlogo/爱奇艺.png" group-title="♻️未匹配频道",爱奇艺
+https://cdn3.indevs.in/stream/live/iqiyi/
 #EXTINF:-1 tvg-id="611" tvg-name="Astro QJ" tvg-logo="https://www.xn--rgv465a.top/tvlogo/Astro QJ.png" group-title="♻️未匹配频道",Astro QJ
 http://php.jdshipin.com/smt.php?id=Quanjia
 #EXTINF:-1 tvg-id="611" tvg-name="Astro QJ" tvg-logo="https://www.xn--rgv465a.top/tvlogo/Astro QJ.png" group-title="♻️未匹配频道",Astro QJ
 https://o11.163189.xyz/stream/live/qj/
+#EXTINF:-1 tvg-id="611" tvg-name="Astro QJ" tvg-logo="https://www.xn--rgv465a.top/tvlogo/Astro QJ.png" group-title="♻️未匹配频道",Astro QJ
+https://cdn3.indevs.in/stream/live/qj/
 #EXTINF:-1 tvg-id="612" tvg-name="Astro欢喜台" tvg-logo="https://www.xn--rgv465a.top/tvlogo/Astro欢喜台.png" group-title="♻️未匹配频道",Astro欢喜台
 http://php.jdshipin.com/smt.php?id=Huahee
 #EXTINF:-1 tvg-id="613" tvg-name="亚洲武侠" tvg-logo="https://www.xn--rgv465a.top/tvlogo/亚洲武侠.png" group-title="♻️未匹配频道",亚洲武侠
@@ -8345,6 +8363,8 @@ http://o11.163189.xyz/stream/live/typd/
 http://smt.1678520.xyz/smt3.2.3.php?id=Celestial
 #EXTINF:-1 tvg-id="816" tvg-name="天映" tvg-logo="https://www.xn--rgv465a.top/tvlogo/天映.png" group-title="♻️未匹配频道",天映
 https://cdn10.123.rr.kg/163189/typd/
+#EXTINF:-1 tvg-id="816" tvg-name="天映" tvg-logo="https://www.xn--rgv465a.top/tvlogo/天映.png" group-title="♻️未匹配频道",天映
+https://cdn3.indevs.in/stream/live/typd/
 #EXTINF:-1 tvg-id="817" tvg-name="Astro 爱奇艺" tvg-logo="https://www.xn--rgv465a.top/tvlogo/Astro 爱奇艺.png" group-title="♻️未匹配频道",Astro 爱奇艺
 https://o11.163189.xyz/stream/live/iqiyi/
 #EXTINF:-1 tvg-id="818" tvg-name="TVBS" tvg-logo="https://www.xn--rgv465a.top/tvlogo/TVBS.png" group-title="♻️未匹配频道",TVBS
@@ -8887,6 +8907,8 @@ http://gslbmgsplive.miguvideo.com/wd_r2/virtuallive/5100180869/150/index.m3u8?ms
 http://gslbmgsplive.miguvideo.com/wd_r2/virtuallive/5100180869/150/index.m3u8?msisdn=9b19f062334880e148e26cb13d1339b5&mdspid=&spid=800033&netType=0&sid=5500242089&pid=2028597139&timestamp=20260909062150&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=625703337&ParentNodeID=-99&assertID=5500242089&client_ip=39.103.188.159&SecurityKey=20260909062150&promotionId=&mvid=5100180869&mcid=500020&playurlVersion=WX-A1-9.8.2-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&puData=decd9d9d8a06c7f75d552752868872ce&ddCalcu=edcev2ca7db89a8d698d285a70265c57df57&sv=10004&ct=android
 #EXTINF:-1 tvg-id="852" tvg-name="经典香港电影" tvg-logo="https://www.xn--rgv465a.top/tvlogo/经典香港电影.png" group-title="♻️未匹配频道",经典香港电影
 http://gslbmgsplive.miguvideo.com/wd_r2/virtuallive/5100180869/150/index.m3u8?msisdn=2d8cf0e804bd4718043e66eca51b99b2&mdspid=&spid=800033&netType=0&sid=5500242089&pid=2028597139&timestamp=20260910075103&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=625703337&ParentNodeID=-99&assertID=5500242089&client_ip=39.103.188.159&SecurityKey=20260910075103&promotionId=&mvid=5100180869&mcid=500020&playurlVersion=WX-A1-9.8.2-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&puData=612510f7ea73bb5bd6413c5a136c7aef&ddCalcu=f6e1va2a75bc1a603f17ae5ac7331b4b65db&sv=10004&ct=android
+#EXTINF:-1 tvg-id="852" tvg-name="经典香港电影" tvg-logo="https://www.xn--rgv465a.top/tvlogo/经典香港电影.png" group-title="♻️未匹配频道",经典香港电影
+http://gslbmgsplive.miguvideo.com/wd_r2/virtuallive/5100180869/150/index.m3u8?msisdn=b4d68c629c4044373a46f9b61432a24b&mdspid=&spid=800033&netType=0&sid=5500242089&pid=2028597139&timestamp=20260911075111&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=625703337&ParentNodeID=-99&assertID=5500242089&client_ip=39.103.182.111&SecurityKey=20260911075111&promotionId=&mvid=5100180869&mcid=500020&playurlVersion=ZQ-A1-9.9.1-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&puData=193d99eb1e16694fa16d4d14f0cb2fdc&ddCalcu=c1d9vf3a2dbb9ac90efb411ed146d66914af&sv=10004&ct=android
 #EXTINF:-1 tvg-id="853" tvg-name="抗战经典影片" tvg-logo="https://www.xn--rgv465a.top/tvlogo/抗战经典影片.png" group-title="♻️未匹配频道",抗战经典影片
 https://mgtv.ottiptv.cc/mg/617432318.m3u8?userid=5559462299&sign=bc806cedba4bb89ed8ae5c1ccd96505bf9bde9cbec5b95b6504acd78c3597f91365853e5f288fd71fecdc946738d820d0bb94dddc0101c2780658e2143350b28162ba4f07667fc4bae0ef187c93af9d446&auth_token=1b99577efa5a3442ca4c7820d6e0b4e8
 #EXTINF:-1 tvg-id="853" tvg-name="抗战经典影片" tvg-logo="https://www.xn--rgv465a.top/tvlogo/抗战经典影片.png" group-title="♻️未匹配频道",抗战经典影片
@@ -14017,6 +14039,8 @@ https://hls-gateway.vpstv.net/streams/525785.m3u8
 https://hls-gateway.vpstv.net/streams/709645.m3u8
 #EXTINF:-1 tvg-id="1179" tvg-name="Astro欢喜" tvg-logo="https://www.xn--rgv465a.top/tvlogo/Astro欢喜.png" group-title="♻️未匹配频道",Astro欢喜
 http://php.jdshipin.com/smt.php?id=Huahee
+#EXTINF:-1 tvg-id="1179" tvg-name="Astro欢喜" tvg-logo="https://www.xn--rgv465a.top/tvlogo/Astro欢喜.png" group-title="♻️未匹配频道",Astro欢喜
+https://cdn3.indevs.in/stream/live/hxt/
 #EXTINF:-1 tvg-id="1180" tvg-name="新时代1" tvg-logo="https://www.xn--rgv465a.top/tvlogo/新时代1.png" group-title="♻️未匹配频道",新时代1
 https://hls-gateway.vpstv.net/streams/709587.m3u8
 #EXTINF:-1 tvg-id="1180" tvg-name="新时代1" tvg-logo="https://www.xn--rgv465a.top/tvlogo/新时代1.png" group-title="♻️未匹配频道",新时代1
